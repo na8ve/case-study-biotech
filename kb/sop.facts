@@ -1,0 +1,44 @@
+# Lab knowledge: sop (synthetic).
+Bioreactor B | fed_by | Feed Pump 2 | Bioreactor B's glucose feed is delivered by Feed Pump 2.
+Robotic Arm 3 | samples_from | Bioreactor B | Robotic Arm 3 pipettes in-process samples from Bioreactor B.
+Robotic Arm 3 | delivers_to | HPLC Suite 1 | Robotic Arm 3 delivers each sample to HPLC Suite 1 for assay.
+HPLC Suite 1 | assays | Titre | HPLC Suite 1 measures product titre by peak area.
+HPLC Suite 1 | reports | Retention time | HPLC Suite 1 reports retention time continuously.
+HPLC Suite 1 | reports | Column pressure | HPLC Suite 1 reports column pressure continuously.
+HPLC Suite 1 | reports | Peak area | HPLC Suite 1 reports peak area continuously.
+Bioreactor B | reports | pH | Bioreactor B reports ph continuously.
+Bioreactor B | reports | Temperature | Bioreactor B reports temperature continuously.
+Bioreactor B | reports | Viscosity | Bioreactor B reports viscosity continuously.
+Bioreactor B | reports | Glucose feed rate | Bioreactor B reports glucose feed rate continuously.
+Robotic Arm 3 | reports | Torque | Robotic Arm 3 reports torque continuously.
+Robotic Arm 3 | reports | Cycle count | Robotic Arm 3 reports cycle count continuously.
+Feed Pump 2 | part_of | Bioreactor B | Feed Pump 2 is part of Bioreactor B.
+Feed Pump 1 | part_of | Bioreactor A | Feed Pump 1 is part of Bioreactor A.
+Feed Pump 3 | part_of | Bioreactor C | Feed Pump 3 is part of Bioreactor C.
+Glucose Feed Line B | part_of | Bioreactor B | Glucose Feed Line B is part of Bioreactor B.
+Agitator B | part_of | Bioreactor B | Agitator B is part of Bioreactor B.
+pH Probe B | part_of | Bioreactor B | pH Probe B is part of Bioreactor B.
+Arm 3 Gripper | part_of | Robotic Arm 3 | Arm 3 Gripper is part of Robotic Arm 3.
+Arm 3 Wrist Joint | part_of | Robotic Arm 3 | Arm 3 Wrist Joint is part of Robotic Arm 3.
+Arm 3 Pipette Head | part_of | Robotic Arm 3 | Arm 3 Pipette Head is part of Robotic Arm 3.
+HPLC Column C18-7 | part_of | HPLC Suite 1 | HPLC Column C18-7 is part of HPLC Suite 1.
+Column Oven 1 | part_of | HPLC Suite 1 | Column Oven 1 is part of HPLC Suite 1.
+Degasser 1 | part_of | HPLC Suite 1 | Degasser 1 is part of HPLC Suite 1.
+Feed Pump 2 | prone_to | Micro-cavitation | SOP note: Feed Pump 2 is prone to micro-cavitation when its inlet seal wears.
+Micro-cavitation | causes | Glucose feed spike | SOP note: Micro-cavitation in a feed pump causes uneven, spiking glucose delivery.
+Glucose feed spike | causes | Broth viscosity rise | SOP note: A glucose feed spike raises broth viscosity within minutes.
+Broth viscosity rise | causes | Pipetting drag | SOP note: Viscous broth drags on the pipette head during aspiration.
+Pipetting drag | causes | Torque drop | SOP note: Pipetting drag lowers the arm's measured joint torque.
+Torque drop | triggers | E-14 | SOP note: A torque drop below 12 Nm triggers error E-14 on the robotic arms.
+E-14 | indicates | Torque drop | Error E-14 means the arm measured joint torque below 12 Nm.
+E-14 | checked_by | Feed pump inspection | After E-14, inspect the feed pump supplying the sampled reactor.
+E-14 | checked_by | Gripper inspection | After E-14, inspect the gripper pads for wear.
+Micro-cavitation | remedied_by | Feed pump seal replacement | Micro-cavitation is fixed by replacing the pump inlet seal.
+Gripper wear | remedied_by | Gripper pad replacement | Gripper wear is fixed by replacing the gripper pads.
+Column fouling | remedied_by | Column regeneration | A fouled column is regenerated or replaced.
+Broth viscosity rise | detected_by | Viscosity | A viscosity rise shows on the reactor's viscosity channel.
+Glucose feed spike | detected_by | Glucose feed rate | A feed spike shows on the glucose feed rate channel.
+Torque drop | detected_by | Torque | A torque drop shows on the arm's torque channel.
+Retention time drift | detected_by | Retention time | Drift shows as a rising retention time.
+Temperature runaway | causes | Contamination | A temperature runaway above 38.5 °C risks contamination.
+Foaming | causes | Probe fouling | Foaming in the reactor fouls the pH and DO probes.

@@ -1,0 +1,141 @@
+# A week of 30-second window summaries (synthetic).
+HPLC Suite 1 | retention_time_on | 2026-09-22 | On 2026-09-22 at 06:00, HPLC Suite 1 retention time averaged 4.193 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-22 | On 2026-09-22 at 06:00, HPLC Suite 1 column pressure averaged 180.5 bar.
+Bioreactor B | ph_on | 2026-09-22 | On 2026-09-22 at 06:00, Bioreactor B pH averaged 7.20.
+Bioreactor B | viscosity_on | 2026-09-22 | On 2026-09-22 at 06:00, Bioreactor B viscosity averaged 1.92 cP.
+Robotic Arm 3 | torque_on | 2026-09-22 | On 2026-09-22 at 06:00, Robotic Arm 3 torque averaged 12.6 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-22 | On 2026-09-22 at 12:00, HPLC Suite 1 retention time averaged 4.194 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-22 | On 2026-09-22 at 12:00, HPLC Suite 1 column pressure averaged 180.1 bar.
+Bioreactor B | ph_on | 2026-09-22 | On 2026-09-22 at 12:00, Bioreactor B pH averaged 7.22.
+Bioreactor B | viscosity_on | 2026-09-22 | On 2026-09-22 at 12:00, Bioreactor B viscosity averaged 1.74 cP.
+Robotic Arm 3 | torque_on | 2026-09-22 | On 2026-09-22 at 12:00, Robotic Arm 3 torque averaged 12.9 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-22 | On 2026-09-22 at 18:00, HPLC Suite 1 retention time averaged 4.192 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-22 | On 2026-09-22 at 18:00, HPLC Suite 1 column pressure averaged 180.1 bar.
+Bioreactor B | ph_on | 2026-09-22 | On 2026-09-22 at 18:00, Bioreactor B pH averaged 7.18.
+Bioreactor B | viscosity_on | 2026-09-22 | On 2026-09-22 at 18:00, Bioreactor B viscosity averaged 1.74 cP.
+Robotic Arm 3 | torque_on | 2026-09-22 | On 2026-09-22 at 18:00, Robotic Arm 3 torque averaged 12.6 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-22 | On 2026-09-22 at 23:00, HPLC Suite 1 retention time averaged 4.193 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-22 | On 2026-09-22 at 23:00, HPLC Suite 1 column pressure averaged 180.0 bar.
+Bioreactor B | ph_on | 2026-09-22 | On 2026-09-22 at 23:00, Bioreactor B pH averaged 7.19.
+Bioreactor B | viscosity_on | 2026-09-22 | On 2026-09-22 at 23:00, Bioreactor B viscosity averaged 1.83 cP.
+Robotic Arm 3 | torque_on | 2026-09-22 | On 2026-09-22 at 23:00, Robotic Arm 3 torque averaged 12.5 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-23 | On 2026-09-23 at 06:00, HPLC Suite 1 retention time averaged 4.203 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-23 | On 2026-09-23 at 06:00, HPLC Suite 1 column pressure averaged 182.1 bar.
+Bioreactor B | ph_on | 2026-09-23 | On 2026-09-23 at 06:00, Bioreactor B pH averaged 7.22.
+Bioreactor B | viscosity_on | 2026-09-23 | On 2026-09-23 at 06:00, Bioreactor B viscosity averaged 1.87 cP.
+Robotic Arm 3 | torque_on | 2026-09-23 | On 2026-09-23 at 06:00, Robotic Arm 3 torque averaged 12.7 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-23 | On 2026-09-23 at 12:00, HPLC Suite 1 retention time averaged 4.205 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-23 | On 2026-09-23 at 12:00, HPLC Suite 1 column pressure averaged 182.0 bar.
+Bioreactor B | ph_on | 2026-09-23 | On 2026-09-23 at 12:00, Bioreactor B pH averaged 7.22.
+Bioreactor B | viscosity_on | 2026-09-23 | On 2026-09-23 at 12:00, Bioreactor B viscosity averaged 1.89 cP.
+Robotic Arm 3 | torque_on | 2026-09-23 | On 2026-09-23 at 12:00, Robotic Arm 3 torque averaged 12.9 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-23 | On 2026-09-23 at 18:00, HPLC Suite 1 retention time averaged 4.206 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-23 | On 2026-09-23 at 18:00, HPLC Suite 1 column pressure averaged 181.7 bar.
+Bioreactor B | ph_on | 2026-09-23 | On 2026-09-23 at 18:00, Bioreactor B pH averaged 7.19.
+Bioreactor B | viscosity_on | 2026-09-23 | On 2026-09-23 at 18:00, Bioreactor B viscosity averaged 1.89 cP.
+Robotic Arm 3 | torque_on | 2026-09-23 | On 2026-09-23 at 18:00, Robotic Arm 3 torque averaged 12.5 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-23 | On 2026-09-23 at 23:00, HPLC Suite 1 retention time averaged 4.204 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-23 | On 2026-09-23 at 23:00, HPLC Suite 1 column pressure averaged 181.7 bar.
+Bioreactor B | ph_on | 2026-09-23 | On 2026-09-23 at 23:00, Bioreactor B pH averaged 7.18.
+Bioreactor B | viscosity_on | 2026-09-23 | On 2026-09-23 at 23:00, Bioreactor B viscosity averaged 1.70 cP.
+Robotic Arm 3 | torque_on | 2026-09-23 | On 2026-09-23 at 23:00, Robotic Arm 3 torque averaged 12.5 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-24 | On 2026-09-24 at 06:00, HPLC Suite 1 retention time averaged 4.216 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-24 | On 2026-09-24 at 06:00, HPLC Suite 1 column pressure averaged 183.7 bar.
+Bioreactor B | ph_on | 2026-09-24 | On 2026-09-24 at 06:00, Bioreactor B pH averaged 7.23.
+Bioreactor B | viscosity_on | 2026-09-24 | On 2026-09-24 at 06:00, Bioreactor B viscosity averaged 1.78 cP.
+Robotic Arm 3 | torque_on | 2026-09-24 | On 2026-09-24 at 06:00, Robotic Arm 3 torque averaged 12.6 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-24 | On 2026-09-24 at 12:00, HPLC Suite 1 retention time averaged 4.217 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-24 | On 2026-09-24 at 12:00, HPLC Suite 1 column pressure averaged 184.0 bar.
+Bioreactor B | ph_on | 2026-09-24 | On 2026-09-24 at 12:00, Bioreactor B pH averaged 7.20.
+Bioreactor B | viscosity_on | 2026-09-24 | On 2026-09-24 at 12:00, Bioreactor B viscosity averaged 1.93 cP.
+Robotic Arm 3 | torque_on | 2026-09-24 | On 2026-09-24 at 12:00, Robotic Arm 3 torque averaged 12.4 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-24 | On 2026-09-24 at 18:00, HPLC Suite 1 retention time averaged 4.216 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-24 | On 2026-09-24 at 18:00, HPLC Suite 1 column pressure averaged 183.8 bar.
+Bioreactor B | ph_on | 2026-09-24 | On 2026-09-24 at 18:00, Bioreactor B pH averaged 7.21.
+Bioreactor B | viscosity_on | 2026-09-24 | On 2026-09-24 at 18:00, Bioreactor B viscosity averaged 1.74 cP.
+Robotic Arm 3 | torque_on | 2026-09-24 | On 2026-09-24 at 18:00, Robotic Arm 3 torque averaged 12.3 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-24 | On 2026-09-24 at 23:00, HPLC Suite 1 retention time averaged 4.217 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-24 | On 2026-09-24 at 23:00, HPLC Suite 1 column pressure averaged 183.5 bar.
+Bioreactor B | ph_on | 2026-09-24 | On 2026-09-24 at 23:00, Bioreactor B pH averaged 7.21.
+Bioreactor B | viscosity_on | 2026-09-24 | On 2026-09-24 at 23:00, Bioreactor B viscosity averaged 1.72 cP.
+Robotic Arm 3 | torque_on | 2026-09-24 | On 2026-09-24 at 23:00, Robotic Arm 3 torque averaged 12.6 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-25 | On 2026-09-25 at 06:00, HPLC Suite 1 retention time averaged 4.227 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-25 | On 2026-09-25 at 06:00, HPLC Suite 1 column pressure averaged 185.3 bar.
+Bioreactor B | ph_on | 2026-09-25 | On 2026-09-25 at 06:00, Bioreactor B pH averaged 7.23.
+Bioreactor B | viscosity_on | 2026-09-25 | On 2026-09-25 at 06:00, Bioreactor B viscosity averaged 1.77 cP.
+Robotic Arm 3 | torque_on | 2026-09-25 | On 2026-09-25 at 06:00, Robotic Arm 3 torque averaged 12.6 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-25 | On 2026-09-25 at 12:00, HPLC Suite 1 retention time averaged 4.227 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-25 | On 2026-09-25 at 12:00, HPLC Suite 1 column pressure averaged 185.0 bar.
+Bioreactor B | ph_on | 2026-09-25 | On 2026-09-25 at 12:00, Bioreactor B pH averaged 7.21.
+Bioreactor B | viscosity_on | 2026-09-25 | On 2026-09-25 at 12:00, Bioreactor B viscosity averaged 1.84 cP.
+Robotic Arm 3 | torque_on | 2026-09-25 | On 2026-09-25 at 12:00, Robotic Arm 3 torque averaged 12.7 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-25 | On 2026-09-25 at 18:00, HPLC Suite 1 retention time averaged 4.227 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-25 | On 2026-09-25 at 18:00, HPLC Suite 1 column pressure averaged 185.2 bar.
+Bioreactor B | ph_on | 2026-09-25 | On 2026-09-25 at 18:00, Bioreactor B pH averaged 7.19.
+Bioreactor B | viscosity_on | 2026-09-25 | On 2026-09-25 at 18:00, Bioreactor B viscosity averaged 1.81 cP.
+Robotic Arm 3 | torque_on | 2026-09-25 | On 2026-09-25 at 18:00, Robotic Arm 3 torque averaged 12.5 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-25 | On 2026-09-25 at 23:00, HPLC Suite 1 retention time averaged 4.228 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-25 | On 2026-09-25 at 23:00, HPLC Suite 1 column pressure averaged 184.8 bar.
+Bioreactor B | ph_on | 2026-09-25 | On 2026-09-25 at 23:00, Bioreactor B pH averaged 7.22.
+Bioreactor B | viscosity_on | 2026-09-25 | On 2026-09-25 at 23:00, Bioreactor B viscosity averaged 1.73 cP.
+Robotic Arm 3 | torque_on | 2026-09-25 | On 2026-09-25 at 23:00, Robotic Arm 3 torque averaged 12.8 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-26 | On 2026-09-26 at 06:00, HPLC Suite 1 retention time averaged 4.239 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-26 | On 2026-09-26 at 06:00, HPLC Suite 1 column pressure averaged 187.2 bar.
+Bioreactor B | ph_on | 2026-09-26 | On 2026-09-26 at 06:00, Bioreactor B pH averaged 7.21.
+Bioreactor B | viscosity_on | 2026-09-26 | On 2026-09-26 at 06:00, Bioreactor B viscosity averaged 1.85 cP.
+Robotic Arm 3 | torque_on | 2026-09-26 | On 2026-09-26 at 06:00, Robotic Arm 3 torque averaged 12.5 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-26 | On 2026-09-26 at 12:00, HPLC Suite 1 retention time averaged 4.239 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-26 | On 2026-09-26 at 12:00, HPLC Suite 1 column pressure averaged 187.2 bar.
+Bioreactor B | ph_on | 2026-09-26 | On 2026-09-26 at 12:00, Bioreactor B pH averaged 7.19.
+Bioreactor B | viscosity_on | 2026-09-26 | On 2026-09-26 at 12:00, Bioreactor B viscosity averaged 1.73 cP.
+Robotic Arm 3 | torque_on | 2026-09-26 | On 2026-09-26 at 12:00, Robotic Arm 3 torque averaged 12.5 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-26 | On 2026-09-26 at 18:00, HPLC Suite 1 retention time averaged 4.239 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-26 | On 2026-09-26 at 18:00, HPLC Suite 1 column pressure averaged 186.6 bar.
+Bioreactor B | ph_on | 2026-09-26 | On 2026-09-26 at 18:00, Bioreactor B pH averaged 7.19.
+Bioreactor B | viscosity_on | 2026-09-26 | On 2026-09-26 at 18:00, Bioreactor B viscosity averaged 1.87 cP.
+Robotic Arm 3 | torque_on | 2026-09-26 | On 2026-09-26 at 18:00, Robotic Arm 3 torque averaged 12.6 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-26 | On 2026-09-26 at 23:00, HPLC Suite 1 retention time averaged 4.242 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-26 | On 2026-09-26 at 23:00, HPLC Suite 1 column pressure averaged 187.1 bar.
+Bioreactor B | ph_on | 2026-09-26 | On 2026-09-26 at 23:00, Bioreactor B pH averaged 7.21.
+Bioreactor B | viscosity_on | 2026-09-26 | On 2026-09-26 at 23:00, Bioreactor B viscosity averaged 1.83 cP.
+Robotic Arm 3 | torque_on | 2026-09-26 | On 2026-09-26 at 23:00, Robotic Arm 3 torque averaged 12.6 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-27 | On 2026-09-27 at 06:00, HPLC Suite 1 retention time averaged 4.252 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-27 | On 2026-09-27 at 06:00, HPLC Suite 1 column pressure averaged 188.4 bar.
+Bioreactor B | ph_on | 2026-09-27 | On 2026-09-27 at 06:00, Bioreactor B pH averaged 7.19.
+Bioreactor B | viscosity_on | 2026-09-27 | On 2026-09-27 at 06:00, Bioreactor B viscosity averaged 1.75 cP.
+Robotic Arm 3 | torque_on | 2026-09-27 | On 2026-09-27 at 06:00, Robotic Arm 3 torque averaged 12.3 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-27 | On 2026-09-27 at 12:00, HPLC Suite 1 retention time averaged 4.254 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-27 | On 2026-09-27 at 12:00, HPLC Suite 1 column pressure averaged 188.3 bar.
+Bioreactor B | ph_on | 2026-09-27 | On 2026-09-27 at 12:00, Bioreactor B pH averaged 7.20.
+Bioreactor B | viscosity_on | 2026-09-27 | On 2026-09-27 at 12:00, Bioreactor B viscosity averaged 1.93 cP.
+Robotic Arm 3 | torque_on | 2026-09-27 | On 2026-09-27 at 12:00, Robotic Arm 3 torque averaged 12.8 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-27 | On 2026-09-27 at 18:00, HPLC Suite 1 retention time averaged 4.254 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-27 | On 2026-09-27 at 18:00, HPLC Suite 1 column pressure averaged 188.1 bar.
+Bioreactor B | ph_on | 2026-09-27 | On 2026-09-27 at 18:00, Bioreactor B pH averaged 7.22.
+Bioreactor B | viscosity_on | 2026-09-27 | On 2026-09-27 at 18:00, Bioreactor B viscosity averaged 1.86 cP.
+Robotic Arm 3 | torque_on | 2026-09-27 | On 2026-09-27 at 18:00, Robotic Arm 3 torque averaged 12.6 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-27 | On 2026-09-27 at 23:00, HPLC Suite 1 retention time averaged 4.251 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-27 | On 2026-09-27 at 23:00, HPLC Suite 1 column pressure averaged 188.4 bar.
+Bioreactor B | ph_on | 2026-09-27 | On 2026-09-27 at 23:00, Bioreactor B pH averaged 7.19.
+Bioreactor B | viscosity_on | 2026-09-27 | On 2026-09-27 at 23:00, Bioreactor B viscosity averaged 1.91 cP.
+Robotic Arm 3 | torque_on | 2026-09-27 | On 2026-09-27 at 23:00, Robotic Arm 3 torque averaged 12.4 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-28 | On 2026-09-28 at 06:00, HPLC Suite 1 retention time averaged 4.262 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-28 | On 2026-09-28 at 06:00, HPLC Suite 1 column pressure averaged 189.6 bar.
+Bioreactor B | ph_on | 2026-09-28 | On 2026-09-28 at 06:00, Bioreactor B pH averaged 7.19.
+Bioreactor B | viscosity_on | 2026-09-28 | On 2026-09-28 at 06:00, Bioreactor B viscosity averaged 1.80 cP.
+Robotic Arm 3 | torque_on | 2026-09-28 | On 2026-09-28 at 06:00, Robotic Arm 3 torque averaged 12.6 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-28 | On 2026-09-28 at 12:00, HPLC Suite 1 retention time averaged 4.263 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-28 | On 2026-09-28 at 12:00, HPLC Suite 1 column pressure averaged 190.4 bar.
+Bioreactor B | ph_on | 2026-09-28 | On 2026-09-28 at 12:00, Bioreactor B pH averaged 7.19.
+Bioreactor B | viscosity_on | 2026-09-28 | On 2026-09-28 at 12:00, Bioreactor B viscosity averaged 1.93 cP.
+Robotic Arm 3 | torque_on | 2026-09-28 | On 2026-09-28 at 12:00, Robotic Arm 3 torque averaged 12.8 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-28 | On 2026-09-28 at 18:00, HPLC Suite 1 retention time averaged 4.263 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-28 | On 2026-09-28 at 18:00, HPLC Suite 1 column pressure averaged 189.7 bar.
+Bioreactor B | ph_on | 2026-09-28 | On 2026-09-28 at 18:00, Bioreactor B pH averaged 7.18.
+Bioreactor B | viscosity_on | 2026-09-28 | On 2026-09-28 at 18:00, Bioreactor B viscosity averaged 1.75 cP.
+Robotic Arm 3 | torque_on | 2026-09-28 | On 2026-09-28 at 18:00, Robotic Arm 3 torque averaged 12.5 Nm.
+HPLC Suite 1 | retention_time_on | 2026-09-28 | On 2026-09-28 at 23:00, HPLC Suite 1 retention time averaged 4.265 min over 30 s.
+HPLC Suite 1 | column_pressure_on | 2026-09-28 | On 2026-09-28 at 23:00, HPLC Suite 1 column pressure averaged 189.9 bar.
+Bioreactor B | ph_on | 2026-09-28 | On 2026-09-28 at 23:00, Bioreactor B pH averaged 7.18.
+Bioreactor B | viscosity_on | 2026-09-28 | On 2026-09-28 at 23:00, Bioreactor B viscosity averaged 1.71 cP.
+Robotic Arm 3 | torque_on | 2026-09-28 | On 2026-09-28 at 23:00, Robotic Arm 3 torque averaged 12.3 Nm.

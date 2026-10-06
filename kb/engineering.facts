@@ -1,0 +1,12 @@
+# Lab knowledge: engineering (synthetic).
+Feed Pump 2 | prone_to | Micro-cavitation | Feed Pump 2 is prone to micro-cavitation when its inlet seal wears.
+Micro-cavitation | causes | Glucose feed spike | Micro-cavitation in a feed pump causes uneven, spiking glucose delivery.
+Glucose feed spike | causes | Broth viscosity rise | A glucose feed spike raises broth viscosity within minutes.
+Broth viscosity rise | causes | Pipetting drag | Viscous broth drags on the pipette head during aspiration.
+Pipetting drag | causes | Torque drop | Pipetting drag lowers the arm's measured joint torque.
+Torque drop | triggers | E-14 | A torque drop below 12 Nm triggers error E-14 on the robotic arms.
+Gripper wear | causes | Torque drop | A worn gripper pad slips and lowers joint torque.
+Arm 3 Gripper | prone_to | Gripper wear | The Arm 3 gripper pads wear after about 40,000 cycles.
+HPLC Column C18-7 | prone_to | Column fouling | The C18-7 column fouls with host-cell protein over successive runs.
+Column fouling | causes | Column pressure rise | A fouling column raises back-pressure.
+Column pressure rise | causes | Retention time drift | Rising column pressure shifts retention time later.

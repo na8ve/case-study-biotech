@@ -1,0 +1,117 @@
+# Deviation records (synthetic).
+DEV-2026-017 | occurred_in | Batch 17 | DEV-2026-017 occurred during Batch 17.
+DEV-2026-017 | raised | E-14 | DEV-2026-017: Robotic Arm 3 raised E-14.
+DEV-2026-017 | involved | Robotic Arm 3 | DEV-2026-017 involved Robotic Arm 3.
+DEV-2026-017 | root_cause | Micro-cavitation | DEV-2026-017 root cause: micro-cavitation. Feed Pump 2 inlet seal worn; glucose feed spiked; E-14 on Robotic Arm 3.
+DEV-2026-029 | occurred_in | Batch 29 | DEV-2026-029 occurred during Batch 29.
+DEV-2026-029 | raised | E-14 | DEV-2026-029: Robotic Arm 3 raised E-14.
+DEV-2026-029 | involved | Robotic Arm 3 | DEV-2026-029 involved Robotic Arm 3.
+DEV-2026-029 | root_cause | Micro-cavitation | DEV-2026-029 root cause: micro-cavitation. Feed Pump 2 cavitated after a seal change; broth thickened; E-14.
+DEV-2026-034 | occurred_in | Batch 34 | DEV-2026-034 occurred during Batch 34.
+DEV-2026-034 | raised | E-14 | DEV-2026-034: Robotic Arm 3 raised E-14.
+DEV-2026-034 | involved | Robotic Arm 3 | DEV-2026-034 involved Robotic Arm 3.
+DEV-2026-034 | root_cause | Gripper wear | DEV-2026-034 root cause: gripper wear. Arm 3 gripper pads at 41,200 cycles; slip; E-14.
+DEV-2026-100 | was_a | Temperature runaway | DEV-2026-100 was a temperature runaway.
+DEV-2026-100 | occurred_on | Bioreactor C | DEV-2026-100 occurred on Bioreactor C.
+DEV-2026-100 | root_cause | Chiller fault | DEV-2026-100 root cause: chiller fault.
+DEV-2026-100 | closed_by | Operator Chen | DEV-2026-100 was closed after review.
+DEV-2026-101 | was_a | Temperature runaway | DEV-2026-101 was a temperature runaway.
+DEV-2026-101 | occurred_on | Bioreactor C | DEV-2026-101 occurred on Bioreactor C.
+DEV-2026-101 | root_cause | Chiller fault | DEV-2026-101 root cause: chiller fault.
+DEV-2026-101 | closed_by | Operator Lindqvist | DEV-2026-101 was closed after review.
+DEV-2026-102 | was_a | Column pressure rise | DEV-2026-102 was a column pressure rise.
+DEV-2026-102 | occurred_on | HPLC Suite 1 | DEV-2026-102 occurred on HPLC Suite 1.
+DEV-2026-102 | root_cause | Column fouling | DEV-2026-102 root cause: column fouling.
+DEV-2026-102 | closed_by | Operator Lindqvist | DEV-2026-102 was closed after review.
+DEV-2026-103 | was_a | Column pressure rise | DEV-2026-103 was a column pressure rise.
+DEV-2026-103 | occurred_on | HPLC Suite 1 | DEV-2026-103 occurred on HPLC Suite 1.
+DEV-2026-103 | root_cause | Column fouling | DEV-2026-103 root cause: column fouling.
+DEV-2026-103 | closed_by | Operator Okafor | DEV-2026-103 was closed after review.
+DEV-2026-104 | was_a | Column pressure rise | DEV-2026-104 was a column pressure rise.
+DEV-2026-104 | occurred_on | HPLC Suite 1 | DEV-2026-104 occurred on HPLC Suite 1.
+DEV-2026-104 | root_cause | Column fouling | DEV-2026-104 root cause: column fouling.
+DEV-2026-104 | closed_by | Operator Lindqvist | DEV-2026-104 was closed after review.
+DEV-2026-105 | was_a | Column pressure rise | DEV-2026-105 was a column pressure rise.
+DEV-2026-105 | occurred_on | HPLC Suite 1 | DEV-2026-105 occurred on HPLC Suite 1.
+DEV-2026-105 | root_cause | Column fouling | DEV-2026-105 root cause: column fouling.
+DEV-2026-105 | closed_by | Operator Haddad | DEV-2026-105 was closed after review.
+DEV-2026-106 | was_a | Column pressure rise | DEV-2026-106 was a column pressure rise.
+DEV-2026-106 | occurred_on | HPLC Suite 1 | DEV-2026-106 occurred on HPLC Suite 1.
+DEV-2026-106 | root_cause | Column fouling | DEV-2026-106 root cause: column fouling.
+DEV-2026-106 | closed_by | Operator Ramos | DEV-2026-106 was closed after review.
+DEV-2026-107 | was_a | Temperature runaway | DEV-2026-107 was a temperature runaway.
+DEV-2026-107 | occurred_on | Bioreactor C | DEV-2026-107 occurred on Bioreactor C.
+DEV-2026-107 | root_cause | Chiller fault | DEV-2026-107 root cause: chiller fault.
+DEV-2026-107 | closed_by | Operator Lindqvist | DEV-2026-107 was closed after review.
+DEV-2026-108 | was_a | Pressure alarm E-22 | DEV-2026-108 was a pressure alarm e-22.
+DEV-2026-108 | occurred_on | HPLC Suite 2 | DEV-2026-108 occurred on HPLC Suite 2.
+DEV-2026-108 | root_cause | Degasser fault | DEV-2026-108 root cause: degasser fault.
+DEV-2026-108 | closed_by | Operator Haddad | DEV-2026-108 was closed after review.
+DEV-2026-109 | was_a | Pressure alarm E-22 | DEV-2026-109 was a pressure alarm e-22.
+DEV-2026-109 | occurred_on | HPLC Suite 2 | DEV-2026-109 occurred on HPLC Suite 2.
+DEV-2026-109 | root_cause | Degasser fault | DEV-2026-109 root cause: degasser fault.
+DEV-2026-109 | closed_by | Operator Chen | DEV-2026-109 was closed after review.
+DEV-2026-110 | was_a | Column pressure rise | DEV-2026-110 was a column pressure rise.
+DEV-2026-110 | occurred_on | HPLC Suite 1 | DEV-2026-110 occurred on HPLC Suite 1.
+DEV-2026-110 | root_cause | Column fouling | DEV-2026-110 root cause: column fouling.
+DEV-2026-110 | closed_by | Operator Okafor | DEV-2026-110 was closed after review.
+DEV-2026-111 | was_a | Pressure alarm E-22 | DEV-2026-111 was a pressure alarm e-22.
+DEV-2026-111 | occurred_on | HPLC Suite 2 | DEV-2026-111 occurred on HPLC Suite 2.
+DEV-2026-111 | root_cause | Degasser fault | DEV-2026-111 root cause: degasser fault.
+DEV-2026-111 | closed_by | Operator Ramos | DEV-2026-111 was closed after review.
+DEV-2026-112 | was_a | pH excursion | DEV-2026-112 was a ph excursion.
+DEV-2026-112 | occurred_on | Bioreactor A | DEV-2026-112 occurred on Bioreactor A.
+DEV-2026-112 | root_cause | Probe fouling | DEV-2026-112 root cause: probe fouling.
+DEV-2026-112 | closed_by | Operator Lindqvist | DEV-2026-112 was closed after review.
+DEV-2026-113 | was_a | Pressure alarm E-22 | DEV-2026-113 was a pressure alarm e-22.
+DEV-2026-113 | occurred_on | HPLC Suite 2 | DEV-2026-113 occurred on HPLC Suite 2.
+DEV-2026-113 | root_cause | Degasser fault | DEV-2026-113 root cause: degasser fault.
+DEV-2026-113 | closed_by | Operator Okafor | DEV-2026-113 was closed after review.
+DEV-2026-114 | was_a | Foaming | DEV-2026-114 was a foaming.
+DEV-2026-114 | occurred_on | Bioreactor C | DEV-2026-114 occurred on Bioreactor C.
+DEV-2026-114 | root_cause | Antifoam underdose | DEV-2026-114 root cause: antifoam underdose.
+DEV-2026-114 | closed_by | Operator Chen | DEV-2026-114 was closed after review.
+DEV-2026-115 | was_a | Column pressure rise | DEV-2026-115 was a column pressure rise.
+DEV-2026-115 | occurred_on | HPLC Suite 1 | DEV-2026-115 occurred on HPLC Suite 1.
+DEV-2026-115 | root_cause | Column fouling | DEV-2026-115 root cause: column fouling.
+DEV-2026-115 | closed_by | Operator Okafor | DEV-2026-115 was closed after review.
+DEV-2026-116 | was_a | pH excursion | DEV-2026-116 was a ph excursion.
+DEV-2026-116 | occurred_on | Bioreactor A | DEV-2026-116 occurred on Bioreactor A.
+DEV-2026-116 | root_cause | Probe fouling | DEV-2026-116 root cause: probe fouling.
+DEV-2026-116 | closed_by | Operator Lindqvist | DEV-2026-116 was closed after review.
+DEV-2026-117 | was_a | Column pressure rise | DEV-2026-117 was a column pressure rise.
+DEV-2026-117 | occurred_on | HPLC Suite 1 | DEV-2026-117 occurred on HPLC Suite 1.
+DEV-2026-117 | root_cause | Column fouling | DEV-2026-117 root cause: column fouling.
+DEV-2026-117 | closed_by | Operator Lindqvist | DEV-2026-117 was closed after review.
+DEV-2026-118 | was_a | Contamination | DEV-2026-118 was a contamination.
+DEV-2026-118 | occurred_on | Bioreactor A | DEV-2026-118 occurred on Bioreactor A.
+DEV-2026-118 | root_cause | Temperature runaway | DEV-2026-118 root cause: temperature runaway.
+DEV-2026-118 | closed_by | Operator Okafor | DEV-2026-118 was closed after review.
+DEV-2026-119 | was_a | Column pressure rise | DEV-2026-119 was a column pressure rise.
+DEV-2026-119 | occurred_on | HPLC Suite 1 | DEV-2026-119 occurred on HPLC Suite 1.
+DEV-2026-119 | root_cause | Column fouling | DEV-2026-119 root cause: column fouling.
+DEV-2026-119 | closed_by | Operator Chen | DEV-2026-119 was closed after review.
+DEV-2026-120 | was_a | Pressure alarm E-22 | DEV-2026-120 was a pressure alarm e-22.
+DEV-2026-120 | occurred_on | HPLC Suite 2 | DEV-2026-120 occurred on HPLC Suite 2.
+DEV-2026-120 | root_cause | Degasser fault | DEV-2026-120 root cause: degasser fault.
+DEV-2026-120 | closed_by | Operator Lindqvist | DEV-2026-120 was closed after review.
+DEV-2026-121 | was_a | Pressure alarm E-22 | DEV-2026-121 was a pressure alarm e-22.
+DEV-2026-121 | occurred_on | HPLC Suite 2 | DEV-2026-121 occurred on HPLC Suite 2.
+DEV-2026-121 | root_cause | Degasser fault | DEV-2026-121 root cause: degasser fault.
+DEV-2026-121 | closed_by | Operator Ramos | DEV-2026-121 was closed after review.
+DEV-2026-122 | was_a | Contamination | DEV-2026-122 was a contamination.
+DEV-2026-122 | occurred_on | Bioreactor A | DEV-2026-122 occurred on Bioreactor A.
+DEV-2026-122 | root_cause | Temperature runaway | DEV-2026-122 root cause: temperature runaway.
+DEV-2026-122 | closed_by | Operator Haddad | DEV-2026-122 was closed after review.
+DEV-2026-123 | was_a | Temperature runaway | DEV-2026-123 was a temperature runaway.
+DEV-2026-123 | occurred_on | Bioreactor C | DEV-2026-123 occurred on Bioreactor C.
+DEV-2026-123 | root_cause | Chiller fault | DEV-2026-123 root cause: chiller fault.
+DEV-2026-123 | closed_by | Operator Okafor | DEV-2026-123 was closed after review.
+DEV-2026-124 | was_a | Pressure alarm E-22 | DEV-2026-124 was a pressure alarm e-22.
+DEV-2026-124 | occurred_on | HPLC Suite 2 | DEV-2026-124 occurred on HPLC Suite 2.
+DEV-2026-124 | root_cause | Degasser fault | DEV-2026-124 root cause: degasser fault.
+DEV-2026-124 | closed_by | Operator Lindqvist | DEV-2026-124 was closed after review.
+DEV-2026-125 | was_a | Temperature runaway | DEV-2026-125 was a temperature runaway.
+DEV-2026-125 | occurred_on | Bioreactor C | DEV-2026-125 occurred on Bioreactor C.
+DEV-2026-125 | root_cause | Chiller fault | DEV-2026-125 root cause: chiller fault.
+DEV-2026-125 | closed_by | Operator Ramos | DEV-2026-125 was closed after review.

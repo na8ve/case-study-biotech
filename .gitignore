@@ -1,0 +1,5 @@
+node_modules/
+.na8ve/
+.na8ve-agent/
+*.key
+.env

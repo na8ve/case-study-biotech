@@ -1,0 +1,16 @@
+[
+  {
+    "subject": "arm-3:torque",
+    "condition": "value < 12",
+    "severity": "critical",
+    "cooldownMin": 10,
+    "question": "Robot arm-3 reported error code {error} at {at}. Torque was {value} {unit} (threshold: 12 Nm). What should I check?"
+  },
+  {
+    "subject": "reactor-b:viscosity",
+    "condition": "value > 3.5",
+    "severity": "warning",
+    "cooldownMin": 30,
+    "question": "Bioreactor B broth viscosity is {value} {unit} at {at}, above 3.5 cP. What could be thickening the broth?"
+  }
+]

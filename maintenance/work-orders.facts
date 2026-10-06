@@ -1,0 +1,580 @@
+# Maintenance work orders (synthetic).
+WO-3001 | performed_on | Agitator B | WO-3001: bearing inspection on Agitator B (2026-08-04).
+WO-3001 | action | Bearing inspection | WO-3001 action: bearing inspection.
+WO-3001 | completed_by | Operator Haddad | WO-3001 was completed on 2026-08-04.
+WO-3001 | found | Normal condition | WO-3001 inspection findings recorded.
+WO-3002 | performed_on | HPLC Column C18-7 | WO-3002: column regeneration on HPLC Column C18-7 (2026-02-14).
+WO-3002 | action | Column regeneration | WO-3002 action: column regeneration.
+WO-3002 | completed_by | Operator Chen | WO-3002 was completed on 2026-02-14.
+WO-3003 | performed_on | Feed Pump 1 | WO-3003: feed pump seal replacement on Feed Pump 1 (2026-07-05).
+WO-3003 | action | Feed pump seal replacement | WO-3003 action: feed pump seal replacement.
+WO-3003 | completed_by | Operator Okafor | WO-3003 was completed on 2026-07-05.
+WO-3004 | performed_on | Agitator B | WO-3004: bearing inspection on Agitator B (2026-05-14).
+WO-3004 | action | Bearing inspection | WO-3004 action: bearing inspection.
+WO-3004 | completed_by | Operator Okafor | WO-3004 was completed on 2026-05-14.
+WO-3005 | performed_on | Arm 3 Wrist Joint | WO-3005: joint lubrication on Arm 3 Wrist Joint (2026-08-10).
+WO-3005 | action | Joint lubrication | WO-3005 action: joint lubrication.
+WO-3005 | completed_by | Operator Lindqvist | WO-3005 was completed on 2026-08-10.
+WO-3005 | found | Normal condition | WO-3005 inspection findings recorded.
+WO-3006 | performed_on | Arm 3 Wrist Joint | WO-3006: joint lubrication on Arm 3 Wrist Joint (2026-02-22).
+WO-3006 | action | Joint lubrication | WO-3006 action: joint lubrication.
+WO-3006 | completed_by | Operator Haddad | WO-3006 was completed on 2026-02-22.
+WO-3006 | found | Normal condition | WO-3006 inspection findings recorded.
+WO-3007 | performed_on | Arm 3 Gripper | WO-3007: gripper pad replacement on Arm 3 Gripper (2026-07-22).
+WO-3007 | action | Gripper pad replacement | WO-3007 action: gripper pad replacement.
+WO-3007 | completed_by | Operator Ramos | WO-3007 was completed on 2026-07-22.
+WO-3008 | performed_on | pH Probe B | WO-3008: probe calibration on pH Probe B (2026-04-06).
+WO-3008 | action | Probe calibration | WO-3008 action: probe calibration.
+WO-3008 | completed_by | Operator Chen | WO-3008 was completed on 2026-04-06.
+WO-3009 | performed_on | Agitator B | WO-3009: bearing inspection on Agitator B (2026-02-22).
+WO-3009 | action | Bearing inspection | WO-3009 action: bearing inspection.
+WO-3009 | completed_by | Operator Okafor | WO-3009 was completed on 2026-02-22.
+WO-3010 | performed_on | Arm 3 Wrist Joint | WO-3010: joint lubrication on Arm 3 Wrist Joint (2026-01-20).
+WO-3010 | action | Joint lubrication | WO-3010 action: joint lubrication.
+WO-3010 | completed_by | Operator Chen | WO-3010 was completed on 2026-01-20.
+WO-3010 | found | Loose fitting | WO-3010 inspection findings recorded.
+WO-3011 | performed_on | Feed Pump 1 | WO-3011: feed pump seal replacement on Feed Pump 1 (2026-05-03).
+WO-3011 | action | Feed pump seal replacement | WO-3011 action: feed pump seal replacement.
+WO-3011 | completed_by | Operator Chen | WO-3011 was completed on 2026-05-03.
+WO-3012 | performed_on | Arm 3 Wrist Joint | WO-3012: joint lubrication on Arm 3 Wrist Joint (2026-09-07).
+WO-3012 | action | Joint lubrication | WO-3012 action: joint lubrication.
+WO-3012 | completed_by | Operator Ramos | WO-3012 was completed on 2026-09-07.
+WO-3013 | performed_on | Arm 3 Gripper | WO-3013: gripper pad replacement on Arm 3 Gripper (2026-09-23).
+WO-3013 | action | Gripper pad replacement | WO-3013 action: gripper pad replacement.
+WO-3013 | completed_by | Operator Haddad | WO-3013 was completed on 2026-09-23.
+WO-3014 | performed_on | HPLC Column C18-7 | WO-3014: column regeneration on HPLC Column C18-7 (2026-09-15).
+WO-3014 | action | Column regeneration | WO-3014 action: column regeneration.
+WO-3014 | completed_by | Operator Okafor | WO-3014 was completed on 2026-09-15.
+WO-3015 | performed_on | pH Probe B | WO-3015: probe calibration on pH Probe B (2026-02-05).
+WO-3015 | action | Probe calibration | WO-3015 action: probe calibration.
+WO-3015 | completed_by | Operator Haddad | WO-3015 was completed on 2026-02-05.
+WO-3016 | performed_on | Degasser 1 | WO-3016: degasser service on Degasser 1 (2026-09-20).
+WO-3016 | action | Degasser service | WO-3016 action: degasser service.
+WO-3016 | completed_by | Operator Haddad | WO-3016 was completed on 2026-09-20.
+WO-3017 | performed_on | pH Probe B | WO-3017: probe calibration on pH Probe B (2026-01-15).
+WO-3017 | action | Probe calibration | WO-3017 action: probe calibration.
+WO-3017 | completed_by | Operator Lindqvist | WO-3017 was completed on 2026-01-15.
+WO-3017 | found | Seal wear | WO-3017 inspection findings recorded.
+WO-3018 | performed_on | Arm 3 Wrist Joint | WO-3018: joint lubrication on Arm 3 Wrist Joint (2026-05-10).
+WO-3018 | action | Joint lubrication | WO-3018 action: joint lubrication.
+WO-3018 | completed_by | Operator Ramos | WO-3018 was completed on 2026-05-10.
+WO-3019 | performed_on | Feed Pump 2 | WO-3019: feed pump seal replacement on Feed Pump 2 (2026-05-23).
+WO-3019 | action | Feed pump seal replacement | WO-3019 action: feed pump seal replacement.
+WO-3019 | completed_by | Operator Haddad | WO-3019 was completed on 2026-05-23.
+WO-3020 | performed_on | Feed Pump 2 | WO-3020: feed pump seal replacement on Feed Pump 2 (2026-08-24).
+WO-3020 | action | Feed pump seal replacement | WO-3020 action: feed pump seal replacement.
+WO-3020 | completed_by | Operator Okafor | WO-3020 was completed on 2026-08-24.
+WO-3020 | found | Minor fouling | WO-3020 inspection findings recorded.
+WO-3021 | performed_on | Arm 3 Wrist Joint | WO-3021: joint lubrication on Arm 3 Wrist Joint (2026-06-16).
+WO-3021 | action | Joint lubrication | WO-3021 action: joint lubrication.
+WO-3021 | completed_by | Operator Ramos | WO-3021 was completed on 2026-06-16.
+WO-3022 | performed_on | Arm 3 Gripper | WO-3022: gripper pad replacement on Arm 3 Gripper (2026-04-18).
+WO-3022 | action | Gripper pad replacement | WO-3022 action: gripper pad replacement.
+WO-3022 | completed_by | Operator Chen | WO-3022 was completed on 2026-04-18.
+WO-3022 | found | Seal wear | WO-3022 inspection findings recorded.
+WO-3023 | performed_on | Agitator B | WO-3023: bearing inspection on Agitator B (2026-03-28).
+WO-3023 | action | Bearing inspection | WO-3023 action: bearing inspection.
+WO-3023 | completed_by | Operator Okafor | WO-3023 was completed on 2026-03-28.
+WO-3023 | found | Pad wear | WO-3023 inspection findings recorded.
+WO-3024 | performed_on | pH Probe B | WO-3024: probe calibration on pH Probe B (2026-09-20).
+WO-3024 | action | Probe calibration | WO-3024 action: probe calibration.
+WO-3024 | completed_by | Operator Lindqvist | WO-3024 was completed on 2026-09-20.
+WO-3024 | found | Pad wear | WO-3024 inspection findings recorded.
+WO-3025 | performed_on | HPLC Column C18-7 | WO-3025: column regeneration on HPLC Column C18-7 (2026-01-21).
+WO-3025 | action | Column regeneration | WO-3025 action: column regeneration.
+WO-3025 | completed_by | Operator Chen | WO-3025 was completed on 2026-01-21.
+WO-3026 | performed_on | Degasser 1 | WO-3026: degasser service on Degasser 1 (2026-05-11).
+WO-3026 | action | Degasser service | WO-3026 action: degasser service.
+WO-3026 | completed_by | Operator Okafor | WO-3026 was completed on 2026-05-11.
+WO-3027 | performed_on | Arm 3 Wrist Joint | WO-3027: joint lubrication on Arm 3 Wrist Joint (2026-04-03).
+WO-3027 | action | Joint lubrication | WO-3027 action: joint lubrication.
+WO-3027 | completed_by | Operator Lindqvist | WO-3027 was completed on 2026-04-03.
+WO-3028 | performed_on | Column Oven 1 | WO-3028: oven calibration on Column Oven 1 (2026-06-04).
+WO-3028 | action | Oven calibration | WO-3028 action: oven calibration.
+WO-3028 | completed_by | Operator Haddad | WO-3028 was completed on 2026-06-04.
+WO-3028 | found | Seal wear | WO-3028 inspection findings recorded.
+WO-3029 | performed_on | Arm 3 Wrist Joint | WO-3029: joint lubrication on Arm 3 Wrist Joint (2026-03-23).
+WO-3029 | action | Joint lubrication | WO-3029 action: joint lubrication.
+WO-3029 | completed_by | Operator Haddad | WO-3029 was completed on 2026-03-23.
+WO-3029 | found | Minor fouling | WO-3029 inspection findings recorded.
+WO-3030 | performed_on | Degasser 1 | WO-3030: degasser service on Degasser 1 (2026-06-10).
+WO-3030 | action | Degasser service | WO-3030 action: degasser service.
+WO-3030 | completed_by | Operator Chen | WO-3030 was completed on 2026-06-10.
+WO-3031 | performed_on | Feed Pump 1 | WO-3031: feed pump seal replacement on Feed Pump 1 (2026-05-22).
+WO-3031 | action | Feed pump seal replacement | WO-3031 action: feed pump seal replacement.
+WO-3031 | completed_by | Operator Okafor | WO-3031 was completed on 2026-05-22.
+WO-3031 | found | Minor fouling | WO-3031 inspection findings recorded.
+WO-3032 | performed_on | pH Probe B | WO-3032: probe calibration on pH Probe B (2026-05-21).
+WO-3032 | action | Probe calibration | WO-3032 action: probe calibration.
+WO-3032 | completed_by | Operator Haddad | WO-3032 was completed on 2026-05-21.
+WO-3033 | performed_on | Agitator B | WO-3033: bearing inspection on Agitator B (2026-01-02).
+WO-3033 | action | Bearing inspection | WO-3033 action: bearing inspection.
+WO-3033 | completed_by | Operator Okafor | WO-3033 was completed on 2026-01-02.
+WO-3034 | performed_on | HPLC Column C18-7 | WO-3034: column regeneration on HPLC Column C18-7 (2026-08-14).
+WO-3034 | action | Column regeneration | WO-3034 action: column regeneration.
+WO-3034 | completed_by | Operator Chen | WO-3034 was completed on 2026-08-14.
+WO-3034 | found | Normal condition | WO-3034 inspection findings recorded.
+WO-3035 | performed_on | Arm 3 Gripper | WO-3035: gripper pad replacement on Arm 3 Gripper (2026-08-03).
+WO-3035 | action | Gripper pad replacement | WO-3035 action: gripper pad replacement.
+WO-3035 | completed_by | Operator Lindqvist | WO-3035 was completed on 2026-08-03.
+WO-3036 | performed_on | Column Oven 1 | WO-3036: oven calibration on Column Oven 1 (2026-02-07).
+WO-3036 | action | Oven calibration | WO-3036 action: oven calibration.
+WO-3036 | completed_by | Operator Ramos | WO-3036 was completed on 2026-02-07.
+WO-3036 | found | Pad wear | WO-3036 inspection findings recorded.
+WO-3037 | performed_on | Column Oven 1 | WO-3037: oven calibration on Column Oven 1 (2026-01-13).
+WO-3037 | action | Oven calibration | WO-3037 action: oven calibration.
+WO-3037 | completed_by | Operator Haddad | WO-3037 was completed on 2026-01-13.
+WO-3038 | performed_on | HPLC Column C18-7 | WO-3038: column regeneration on HPLC Column C18-7 (2026-05-11).
+WO-3038 | action | Column regeneration | WO-3038 action: column regeneration.
+WO-3038 | completed_by | Operator Haddad | WO-3038 was completed on 2026-05-11.
+WO-3038 | found | Minor fouling | WO-3038 inspection findings recorded.
+WO-3039 | performed_on | Feed Pump 2 | WO-3039: feed pump seal replacement on Feed Pump 2 (2026-09-11).
+WO-3039 | action | Feed pump seal replacement | WO-3039 action: feed pump seal replacement.
+WO-3039 | completed_by | Operator Chen | WO-3039 was completed on 2026-09-11.
+WO-3040 | performed_on | Feed Pump 2 | WO-3040: feed pump seal replacement on Feed Pump 2 (2026-07-20).
+WO-3040 | action | Feed pump seal replacement | WO-3040 action: feed pump seal replacement.
+WO-3040 | completed_by | Operator Haddad | WO-3040 was completed on 2026-07-20.
+WO-3041 | performed_on | HPLC Column C18-7 | WO-3041: column regeneration on HPLC Column C18-7 (2026-04-22).
+WO-3041 | action | Column regeneration | WO-3041 action: column regeneration.
+WO-3041 | completed_by | Operator Haddad | WO-3041 was completed on 2026-04-22.
+WO-3042 | performed_on | Feed Pump 1 | WO-3042: feed pump seal replacement on Feed Pump 1 (2026-04-14).
+WO-3042 | action | Feed pump seal replacement | WO-3042 action: feed pump seal replacement.
+WO-3042 | completed_by | Operator Okafor | WO-3042 was completed on 2026-04-14.
+WO-3043 | performed_on | Feed Pump 1 | WO-3043: feed pump seal replacement on Feed Pump 1 (2026-09-24).
+WO-3043 | action | Feed pump seal replacement | WO-3043 action: feed pump seal replacement.
+WO-3043 | completed_by | Operator Chen | WO-3043 was completed on 2026-09-24.
+WO-3043 | found | Normal condition | WO-3043 inspection findings recorded.
+WO-3044 | performed_on | HPLC Column C18-7 | WO-3044: column regeneration on HPLC Column C18-7 (2026-01-08).
+WO-3044 | action | Column regeneration | WO-3044 action: column regeneration.
+WO-3044 | completed_by | Operator Ramos | WO-3044 was completed on 2026-01-08.
+WO-3044 | found | Pad wear | WO-3044 inspection findings recorded.
+WO-3045 | performed_on | HPLC Column C18-7 | WO-3045: column regeneration on HPLC Column C18-7 (2026-04-04).
+WO-3045 | action | Column regeneration | WO-3045 action: column regeneration.
+WO-3045 | completed_by | Operator Ramos | WO-3045 was completed on 2026-04-04.
+WO-3046 | performed_on | pH Probe B | WO-3046: probe calibration on pH Probe B (2026-06-20).
+WO-3046 | action | Probe calibration | WO-3046 action: probe calibration.
+WO-3046 | completed_by | Operator Haddad | WO-3046 was completed on 2026-06-20.
+WO-3046 | found | Minor fouling | WO-3046 inspection findings recorded.
+WO-3047 | performed_on | Arm 3 Gripper | WO-3047: gripper pad replacement on Arm 3 Gripper (2026-07-05).
+WO-3047 | action | Gripper pad replacement | WO-3047 action: gripper pad replacement.
+WO-3047 | completed_by | Operator Chen | WO-3047 was completed on 2026-07-05.
+WO-3048 | performed_on | Feed Pump 1 | WO-3048: feed pump seal replacement on Feed Pump 1 (2026-07-12).
+WO-3048 | action | Feed pump seal replacement | WO-3048 action: feed pump seal replacement.
+WO-3048 | completed_by | Operator Chen | WO-3048 was completed on 2026-07-12.
+WO-3048 | found | Minor fouling | WO-3048 inspection findings recorded.
+WO-3049 | performed_on | Degasser 1 | WO-3049: degasser service on Degasser 1 (2026-01-24).
+WO-3049 | action | Degasser service | WO-3049 action: degasser service.
+WO-3049 | completed_by | Operator Okafor | WO-3049 was completed on 2026-01-24.
+WO-3050 | performed_on | Column Oven 1 | WO-3050: oven calibration on Column Oven 1 (2026-07-08).
+WO-3050 | action | Oven calibration | WO-3050 action: oven calibration.
+WO-3050 | completed_by | Operator Chen | WO-3050 was completed on 2026-07-08.
+WO-3051 | performed_on | Arm 3 Wrist Joint | WO-3051: joint lubrication on Arm 3 Wrist Joint (2026-03-13).
+WO-3051 | action | Joint lubrication | WO-3051 action: joint lubrication.
+WO-3051 | completed_by | Operator Lindqvist | WO-3051 was completed on 2026-03-13.
+WO-3052 | performed_on | HPLC Column C18-7 | WO-3052: column regeneration on HPLC Column C18-7 (2026-05-12).
+WO-3052 | action | Column regeneration | WO-3052 action: column regeneration.
+WO-3052 | completed_by | Operator Ramos | WO-3052 was completed on 2026-05-12.
+WO-3053 | performed_on | Agitator B | WO-3053: bearing inspection on Agitator B (2026-05-06).
+WO-3053 | action | Bearing inspection | WO-3053 action: bearing inspection.
+WO-3053 | completed_by | Operator Chen | WO-3053 was completed on 2026-05-06.
+WO-3054 | performed_on | Feed Pump 1 | WO-3054: feed pump seal replacement on Feed Pump 1 (2026-03-04).
+WO-3054 | action | Feed pump seal replacement | WO-3054 action: feed pump seal replacement.
+WO-3054 | completed_by | Operator Okafor | WO-3054 was completed on 2026-03-04.
+WO-3055 | performed_on | Agitator B | WO-3055: bearing inspection on Agitator B (2026-07-26).
+WO-3055 | action | Bearing inspection | WO-3055 action: bearing inspection.
+WO-3055 | completed_by | Operator Chen | WO-3055 was completed on 2026-07-26.
+WO-3056 | performed_on | Column Oven 1 | WO-3056: oven calibration on Column Oven 1 (2026-03-08).
+WO-3056 | action | Oven calibration | WO-3056 action: oven calibration.
+WO-3056 | completed_by | Operator Haddad | WO-3056 was completed on 2026-03-08.
+WO-3056 | found | Minor fouling | WO-3056 inspection findings recorded.
+WO-3057 | performed_on | Arm 3 Wrist Joint | WO-3057: joint lubrication on Arm 3 Wrist Joint (2026-05-25).
+WO-3057 | action | Joint lubrication | WO-3057 action: joint lubrication.
+WO-3057 | completed_by | Operator Chen | WO-3057 was completed on 2026-05-25.
+WO-3058 | performed_on | Feed Pump 1 | WO-3058: feed pump seal replacement on Feed Pump 1 (2026-03-26).
+WO-3058 | action | Feed pump seal replacement | WO-3058 action: feed pump seal replacement.
+WO-3058 | completed_by | Operator Okafor | WO-3058 was completed on 2026-03-26.
+WO-3058 | found | Minor fouling | WO-3058 inspection findings recorded.
+WO-3059 | performed_on | HPLC Column C18-7 | WO-3059: column regeneration on HPLC Column C18-7 (2026-05-16).
+WO-3059 | action | Column regeneration | WO-3059 action: column regeneration.
+WO-3059 | completed_by | Operator Haddad | WO-3059 was completed on 2026-05-16.
+WO-3059 | found | Minor fouling | WO-3059 inspection findings recorded.
+WO-3060 | performed_on | Feed Pump 2 | WO-3060: feed pump seal replacement on Feed Pump 2 (2026-01-26).
+WO-3060 | action | Feed pump seal replacement | WO-3060 action: feed pump seal replacement.
+WO-3060 | completed_by | Operator Haddad | WO-3060 was completed on 2026-01-26.
+WO-3061 | performed_on | Agitator B | WO-3061: bearing inspection on Agitator B (2026-04-17).
+WO-3061 | action | Bearing inspection | WO-3061 action: bearing inspection.
+WO-3061 | completed_by | Operator Haddad | WO-3061 was completed on 2026-04-17.
+WO-3062 | performed_on | Column Oven 1 | WO-3062: oven calibration on Column Oven 1 (2026-05-27).
+WO-3062 | action | Oven calibration | WO-3062 action: oven calibration.
+WO-3062 | completed_by | Operator Haddad | WO-3062 was completed on 2026-05-27.
+WO-3063 | performed_on | Feed Pump 2 | WO-3063: feed pump seal replacement on Feed Pump 2 (2026-06-01).
+WO-3063 | action | Feed pump seal replacement | WO-3063 action: feed pump seal replacement.
+WO-3063 | completed_by | Operator Okafor | WO-3063 was completed on 2026-06-01.
+WO-3063 | found | Minor fouling | WO-3063 inspection findings recorded.
+WO-3064 | performed_on | HPLC Column C18-7 | WO-3064: column regeneration on HPLC Column C18-7 (2026-02-16).
+WO-3064 | action | Column regeneration | WO-3064 action: column regeneration.
+WO-3064 | completed_by | Operator Okafor | WO-3064 was completed on 2026-02-16.
+WO-3065 | performed_on | Column Oven 1 | WO-3065: oven calibration on Column Oven 1 (2026-02-05).
+WO-3065 | action | Oven calibration | WO-3065 action: oven calibration.
+WO-3065 | completed_by | Operator Ramos | WO-3065 was completed on 2026-02-05.
+WO-3065 | found | Loose fitting | WO-3065 inspection findings recorded.
+WO-3066 | performed_on | Agitator B | WO-3066: bearing inspection on Agitator B (2026-03-16).
+WO-3066 | action | Bearing inspection | WO-3066 action: bearing inspection.
+WO-3066 | completed_by | Operator Ramos | WO-3066 was completed on 2026-03-16.
+WO-3066 | found | Normal condition | WO-3066 inspection findings recorded.
+WO-3067 | performed_on | Degasser 1 | WO-3067: degasser service on Degasser 1 (2026-07-12).
+WO-3067 | action | Degasser service | WO-3067 action: degasser service.
+WO-3067 | completed_by | Operator Okafor | WO-3067 was completed on 2026-07-12.
+WO-3068 | performed_on | Feed Pump 1 | WO-3068: feed pump seal replacement on Feed Pump 1 (2026-03-06).
+WO-3068 | action | Feed pump seal replacement | WO-3068 action: feed pump seal replacement.
+WO-3068 | completed_by | Operator Ramos | WO-3068 was completed on 2026-03-06.
+WO-3069 | performed_on | pH Probe B | WO-3069: probe calibration on pH Probe B (2026-04-08).
+WO-3069 | action | Probe calibration | WO-3069 action: probe calibration.
+WO-3069 | completed_by | Operator Ramos | WO-3069 was completed on 2026-04-08.
+WO-3069 | found | Pad wear | WO-3069 inspection findings recorded.
+WO-3070 | performed_on | Column Oven 1 | WO-3070: oven calibration on Column Oven 1 (2026-01-24).
+WO-3070 | action | Oven calibration | WO-3070 action: oven calibration.
+WO-3070 | completed_by | Operator Chen | WO-3070 was completed on 2026-01-24.
+WO-3071 | performed_on | Arm 3 Gripper | WO-3071: gripper pad replacement on Arm 3 Gripper (2026-05-10).
+WO-3071 | action | Gripper pad replacement | WO-3071 action: gripper pad replacement.
+WO-3071 | completed_by | Operator Okafor | WO-3071 was completed on 2026-05-10.
+WO-3072 | performed_on | Arm 3 Gripper | WO-3072: gripper pad replacement on Arm 3 Gripper (2026-04-13).
+WO-3072 | action | Gripper pad replacement | WO-3072 action: gripper pad replacement.
+WO-3072 | completed_by | Operator Okafor | WO-3072 was completed on 2026-04-13.
+WO-3073 | performed_on | Feed Pump 2 | WO-3073: feed pump seal replacement on Feed Pump 2 (2026-09-23).
+WO-3073 | action | Feed pump seal replacement | WO-3073 action: feed pump seal replacement.
+WO-3073 | completed_by | Operator Chen | WO-3073 was completed on 2026-09-23.
+WO-3073 | found | Loose fitting | WO-3073 inspection findings recorded.
+WO-3074 | performed_on | Feed Pump 1 | WO-3074: feed pump seal replacement on Feed Pump 1 (2026-06-28).
+WO-3074 | action | Feed pump seal replacement | WO-3074 action: feed pump seal replacement.
+WO-3074 | completed_by | Operator Okafor | WO-3074 was completed on 2026-06-28.
+WO-3074 | found | Minor fouling | WO-3074 inspection findings recorded.
+WO-3075 | performed_on | Agitator B | WO-3075: bearing inspection on Agitator B (2026-06-04).
+WO-3075 | action | Bearing inspection | WO-3075 action: bearing inspection.
+WO-3075 | completed_by | Operator Lindqvist | WO-3075 was completed on 2026-06-04.
+WO-3076 | performed_on | Arm 3 Gripper | WO-3076: gripper pad replacement on Arm 3 Gripper (2026-02-24).
+WO-3076 | action | Gripper pad replacement | WO-3076 action: gripper pad replacement.
+WO-3076 | completed_by | Operator Okafor | WO-3076 was completed on 2026-02-24.
+WO-3076 | found | Minor fouling | WO-3076 inspection findings recorded.
+WO-3077 | performed_on | pH Probe B | WO-3077: probe calibration on pH Probe B (2026-01-11).
+WO-3077 | action | Probe calibration | WO-3077 action: probe calibration.
+WO-3077 | completed_by | Operator Okafor | WO-3077 was completed on 2026-01-11.
+WO-3077 | found | Seal wear | WO-3077 inspection findings recorded.
+WO-3078 | performed_on | Degasser 1 | WO-3078: degasser service on Degasser 1 (2026-01-16).
+WO-3078 | action | Degasser service | WO-3078 action: degasser service.
+WO-3078 | completed_by | Operator Okafor | WO-3078 was completed on 2026-01-16.
+WO-3079 | performed_on | Feed Pump 2 | WO-3079: feed pump seal replacement on Feed Pump 2 (2026-05-22).
+WO-3079 | action | Feed pump seal replacement | WO-3079 action: feed pump seal replacement.
+WO-3079 | completed_by | Operator Lindqvist | WO-3079 was completed on 2026-05-22.
+WO-3079 | found | Pad wear | WO-3079 inspection findings recorded.
+WO-3080 | performed_on | Column Oven 1 | WO-3080: oven calibration on Column Oven 1 (2026-07-01).
+WO-3080 | action | Oven calibration | WO-3080 action: oven calibration.
+WO-3080 | completed_by | Operator Lindqvist | WO-3080 was completed on 2026-07-01.
+WO-3081 | performed_on | Feed Pump 2 | WO-3081: feed pump seal replacement on Feed Pump 2 (2026-04-20).
+WO-3081 | action | Feed pump seal replacement | WO-3081 action: feed pump seal replacement.
+WO-3081 | completed_by | Operator Lindqvist | WO-3081 was completed on 2026-04-20.
+WO-3082 | performed_on | Column Oven 1 | WO-3082: oven calibration on Column Oven 1 (2026-06-21).
+WO-3082 | action | Oven calibration | WO-3082 action: oven calibration.
+WO-3082 | completed_by | Operator Ramos | WO-3082 was completed on 2026-06-21.
+WO-3083 | performed_on | Arm 3 Gripper | WO-3083: gripper pad replacement on Arm 3 Gripper (2026-06-08).
+WO-3083 | action | Gripper pad replacement | WO-3083 action: gripper pad replacement.
+WO-3083 | completed_by | Operator Haddad | WO-3083 was completed on 2026-06-08.
+WO-3083 | found | Pad wear | WO-3083 inspection findings recorded.
+WO-3084 | performed_on | Degasser 1 | WO-3084: degasser service on Degasser 1 (2026-01-22).
+WO-3084 | action | Degasser service | WO-3084 action: degasser service.
+WO-3084 | completed_by | Operator Haddad | WO-3084 was completed on 2026-01-22.
+WO-3085 | performed_on | Arm 3 Wrist Joint | WO-3085: joint lubrication on Arm 3 Wrist Joint (2026-07-15).
+WO-3085 | action | Joint lubrication | WO-3085 action: joint lubrication.
+WO-3085 | completed_by | Operator Ramos | WO-3085 was completed on 2026-07-15.
+WO-3086 | performed_on | Arm 3 Wrist Joint | WO-3086: joint lubrication on Arm 3 Wrist Joint (2026-09-22).
+WO-3086 | action | Joint lubrication | WO-3086 action: joint lubrication.
+WO-3086 | completed_by | Operator Ramos | WO-3086 was completed on 2026-09-22.
+WO-3087 | performed_on | Feed Pump 1 | WO-3087: feed pump seal replacement on Feed Pump 1 (2026-02-23).
+WO-3087 | action | Feed pump seal replacement | WO-3087 action: feed pump seal replacement.
+WO-3087 | completed_by | Operator Chen | WO-3087 was completed on 2026-02-23.
+WO-3087 | found | Seal wear | WO-3087 inspection findings recorded.
+WO-3088 | performed_on | Arm 3 Gripper | WO-3088: gripper pad replacement on Arm 3 Gripper (2026-04-17).
+WO-3088 | action | Gripper pad replacement | WO-3088 action: gripper pad replacement.
+WO-3088 | completed_by | Operator Chen | WO-3088 was completed on 2026-04-17.
+WO-3088 | found | Normal condition | WO-3088 inspection findings recorded.
+WO-3089 | performed_on | HPLC Column C18-7 | WO-3089: column regeneration on HPLC Column C18-7 (2026-09-16).
+WO-3089 | action | Column regeneration | WO-3089 action: column regeneration.
+WO-3089 | completed_by | Operator Haddad | WO-3089 was completed on 2026-09-16.
+WO-3090 | performed_on | Column Oven 1 | WO-3090: oven calibration on Column Oven 1 (2026-09-27).
+WO-3090 | action | Oven calibration | WO-3090 action: oven calibration.
+WO-3090 | completed_by | Operator Chen | WO-3090 was completed on 2026-09-27.
+WO-3090 | found | Loose fitting | WO-3090 inspection findings recorded.
+WO-3091 | performed_on | Arm 3 Gripper | WO-3091: gripper pad replacement on Arm 3 Gripper (2026-03-09).
+WO-3091 | action | Gripper pad replacement | WO-3091 action: gripper pad replacement.
+WO-3091 | completed_by | Operator Ramos | WO-3091 was completed on 2026-03-09.
+WO-3091 | found | Seal wear | WO-3091 inspection findings recorded.
+WO-3092 | performed_on | Column Oven 1 | WO-3092: oven calibration on Column Oven 1 (2026-07-06).
+WO-3092 | action | Oven calibration | WO-3092 action: oven calibration.
+WO-3092 | completed_by | Operator Haddad | WO-3092 was completed on 2026-07-06.
+WO-3093 | performed_on | Feed Pump 2 | WO-3093: feed pump seal replacement on Feed Pump 2 (2026-02-20).
+WO-3093 | action | Feed pump seal replacement | WO-3093 action: feed pump seal replacement.
+WO-3093 | completed_by | Operator Lindqvist | WO-3093 was completed on 2026-02-20.
+WO-3094 | performed_on | Column Oven 1 | WO-3094: oven calibration on Column Oven 1 (2026-06-28).
+WO-3094 | action | Oven calibration | WO-3094 action: oven calibration.
+WO-3094 | completed_by | Operator Chen | WO-3094 was completed on 2026-06-28.
+WO-3095 | performed_on | Arm 3 Gripper | WO-3095: gripper pad replacement on Arm 3 Gripper (2026-04-11).
+WO-3095 | action | Gripper pad replacement | WO-3095 action: gripper pad replacement.
+WO-3095 | completed_by | Operator Okafor | WO-3095 was completed on 2026-04-11.
+WO-3096 | performed_on | Feed Pump 2 | WO-3096: feed pump seal replacement on Feed Pump 2 (2026-06-02).
+WO-3096 | action | Feed pump seal replacement | WO-3096 action: feed pump seal replacement.
+WO-3096 | completed_by | Operator Haddad | WO-3096 was completed on 2026-06-02.
+WO-3097 | performed_on | pH Probe B | WO-3097: probe calibration on pH Probe B (2026-09-09).
+WO-3097 | action | Probe calibration | WO-3097 action: probe calibration.
+WO-3097 | completed_by | Operator Okafor | WO-3097 was completed on 2026-09-09.
+WO-3098 | performed_on | Arm 3 Gripper | WO-3098: gripper pad replacement on Arm 3 Gripper (2026-09-07).
+WO-3098 | action | Gripper pad replacement | WO-3098 action: gripper pad replacement.
+WO-3098 | completed_by | Operator Chen | WO-3098 was completed on 2026-09-07.
+WO-3098 | found | Seal wear | WO-3098 inspection findings recorded.
+WO-3099 | performed_on | HPLC Column C18-7 | WO-3099: column regeneration on HPLC Column C18-7 (2026-01-06).
+WO-3099 | action | Column regeneration | WO-3099 action: column regeneration.
+WO-3099 | completed_by | Operator Chen | WO-3099 was completed on 2026-01-06.
+WO-3100 | performed_on | HPLC Column C18-7 | WO-3100: column regeneration on HPLC Column C18-7 (2026-05-04).
+WO-3100 | action | Column regeneration | WO-3100 action: column regeneration.
+WO-3100 | completed_by | Operator Okafor | WO-3100 was completed on 2026-05-04.
+WO-3101 | performed_on | Degasser 1 | WO-3101: degasser service on Degasser 1 (2026-05-22).
+WO-3101 | action | Degasser service | WO-3101 action: degasser service.
+WO-3101 | completed_by | Operator Chen | WO-3101 was completed on 2026-05-22.
+WO-3102 | performed_on | Feed Pump 2 | WO-3102: feed pump seal replacement on Feed Pump 2 (2026-03-17).
+WO-3102 | action | Feed pump seal replacement | WO-3102 action: feed pump seal replacement.
+WO-3102 | completed_by | Operator Ramos | WO-3102 was completed on 2026-03-17.
+WO-3103 | performed_on | Arm 3 Gripper | WO-3103: gripper pad replacement on Arm 3 Gripper (2026-04-16).
+WO-3103 | action | Gripper pad replacement | WO-3103 action: gripper pad replacement.
+WO-3103 | completed_by | Operator Chen | WO-3103 was completed on 2026-04-16.
+WO-3103 | found | Seal wear | WO-3103 inspection findings recorded.
+WO-3104 | performed_on | Arm 3 Wrist Joint | WO-3104: joint lubrication on Arm 3 Wrist Joint (2026-08-19).
+WO-3104 | action | Joint lubrication | WO-3104 action: joint lubrication.
+WO-3104 | completed_by | Operator Ramos | WO-3104 was completed on 2026-08-19.
+WO-3105 | performed_on | Degasser 1 | WO-3105: degasser service on Degasser 1 (2026-06-01).
+WO-3105 | action | Degasser service | WO-3105 action: degasser service.
+WO-3105 | completed_by | Operator Ramos | WO-3105 was completed on 2026-06-01.
+WO-3106 | performed_on | Degasser 1 | WO-3106: degasser service on Degasser 1 (2026-02-15).
+WO-3106 | action | Degasser service | WO-3106 action: degasser service.
+WO-3106 | completed_by | Operator Okafor | WO-3106 was completed on 2026-02-15.
+WO-3107 | performed_on | pH Probe B | WO-3107: probe calibration on pH Probe B (2026-05-04).
+WO-3107 | action | Probe calibration | WO-3107 action: probe calibration.
+WO-3107 | completed_by | Operator Haddad | WO-3107 was completed on 2026-05-04.
+WO-3107 | found | Minor fouling | WO-3107 inspection findings recorded.
+WO-3108 | performed_on | Agitator B | WO-3108: bearing inspection on Agitator B (2026-09-04).
+WO-3108 | action | Bearing inspection | WO-3108 action: bearing inspection.
+WO-3108 | completed_by | Operator Haddad | WO-3108 was completed on 2026-09-04.
+WO-3109 | performed_on | Arm 3 Gripper | WO-3109: gripper pad replacement on Arm 3 Gripper (2026-07-08).
+WO-3109 | action | Gripper pad replacement | WO-3109 action: gripper pad replacement.
+WO-3109 | completed_by | Operator Chen | WO-3109 was completed on 2026-07-08.
+WO-3109 | found | Normal condition | WO-3109 inspection findings recorded.
+WO-3110 | performed_on | Degasser 1 | WO-3110: degasser service on Degasser 1 (2026-07-08).
+WO-3110 | action | Degasser service | WO-3110 action: degasser service.
+WO-3110 | completed_by | Operator Ramos | WO-3110 was completed on 2026-07-08.
+WO-3111 | performed_on | pH Probe B | WO-3111: probe calibration on pH Probe B (2026-06-08).
+WO-3111 | action | Probe calibration | WO-3111 action: probe calibration.
+WO-3111 | completed_by | Operator Lindqvist | WO-3111 was completed on 2026-06-08.
+WO-3112 | performed_on | Column Oven 1 | WO-3112: oven calibration on Column Oven 1 (2026-05-21).
+WO-3112 | action | Oven calibration | WO-3112 action: oven calibration.
+WO-3112 | completed_by | Operator Lindqvist | WO-3112 was completed on 2026-05-21.
+WO-3113 | performed_on | Feed Pump 2 | WO-3113: feed pump seal replacement on Feed Pump 2 (2026-03-13).
+WO-3113 | action | Feed pump seal replacement | WO-3113 action: feed pump seal replacement.
+WO-3113 | completed_by | Operator Chen | WO-3113 was completed on 2026-03-13.
+WO-3114 | performed_on | Feed Pump 1 | WO-3114: feed pump seal replacement on Feed Pump 1 (2026-07-05).
+WO-3114 | action | Feed pump seal replacement | WO-3114 action: feed pump seal replacement.
+WO-3114 | completed_by | Operator Haddad | WO-3114 was completed on 2026-07-05.
+WO-3114 | found | Seal wear | WO-3114 inspection findings recorded.
+WO-3115 | performed_on | Feed Pump 2 | WO-3115: feed pump seal replacement on Feed Pump 2 (2026-08-17).
+WO-3115 | action | Feed pump seal replacement | WO-3115 action: feed pump seal replacement.
+WO-3115 | completed_by | Operator Chen | WO-3115 was completed on 2026-08-17.
+WO-3116 | performed_on | Feed Pump 1 | WO-3116: feed pump seal replacement on Feed Pump 1 (2026-08-05).
+WO-3116 | action | Feed pump seal replacement | WO-3116 action: feed pump seal replacement.
+WO-3116 | completed_by | Operator Okafor | WO-3116 was completed on 2026-08-05.
+WO-3116 | found | Pad wear | WO-3116 inspection findings recorded.
+WO-3117 | performed_on | Feed Pump 1 | WO-3117: feed pump seal replacement on Feed Pump 1 (2026-08-13).
+WO-3117 | action | Feed pump seal replacement | WO-3117 action: feed pump seal replacement.
+WO-3117 | completed_by | Operator Chen | WO-3117 was completed on 2026-08-13.
+WO-3118 | performed_on | Agitator B | WO-3118: bearing inspection on Agitator B (2026-05-01).
+WO-3118 | action | Bearing inspection | WO-3118 action: bearing inspection.
+WO-3118 | completed_by | Operator Ramos | WO-3118 was completed on 2026-05-01.
+WO-3118 | found | Loose fitting | WO-3118 inspection findings recorded.
+WO-3119 | performed_on | Agitator B | WO-3119: bearing inspection on Agitator B (2026-03-03).
+WO-3119 | action | Bearing inspection | WO-3119 action: bearing inspection.
+WO-3119 | completed_by | Operator Okafor | WO-3119 was completed on 2026-03-03.
+WO-3119 | found | Normal condition | WO-3119 inspection findings recorded.
+WO-3120 | performed_on | Arm 3 Wrist Joint | WO-3120: joint lubrication on Arm 3 Wrist Joint (2026-01-08).
+WO-3120 | action | Joint lubrication | WO-3120 action: joint lubrication.
+WO-3120 | completed_by | Operator Ramos | WO-3120 was completed on 2026-01-08.
+WO-3120 | found | Minor fouling | WO-3120 inspection findings recorded.
+WO-3121 | performed_on | HPLC Column C18-7 | WO-3121: column regeneration on HPLC Column C18-7 (2026-09-02).
+WO-3121 | action | Column regeneration | WO-3121 action: column regeneration.
+WO-3121 | completed_by | Operator Chen | WO-3121 was completed on 2026-09-02.
+WO-3121 | found | Pad wear | WO-3121 inspection findings recorded.
+WO-3122 | performed_on | pH Probe B | WO-3122: probe calibration on pH Probe B (2026-01-06).
+WO-3122 | action | Probe calibration | WO-3122 action: probe calibration.
+WO-3122 | completed_by | Operator Chen | WO-3122 was completed on 2026-01-06.
+WO-3123 | performed_on | Arm 3 Wrist Joint | WO-3123: joint lubrication on Arm 3 Wrist Joint (2026-08-02).
+WO-3123 | action | Joint lubrication | WO-3123 action: joint lubrication.
+WO-3123 | completed_by | Operator Ramos | WO-3123 was completed on 2026-08-02.
+WO-3123 | found | Seal wear | WO-3123 inspection findings recorded.
+WO-3124 | performed_on | Degasser 1 | WO-3124: degasser service on Degasser 1 (2026-05-21).
+WO-3124 | action | Degasser service | WO-3124 action: degasser service.
+WO-3124 | completed_by | Operator Chen | WO-3124 was completed on 2026-05-21.
+WO-3125 | performed_on | HPLC Column C18-7 | WO-3125: column regeneration on HPLC Column C18-7 (2026-09-08).
+WO-3125 | action | Column regeneration | WO-3125 action: column regeneration.
+WO-3125 | completed_by | Operator Lindqvist | WO-3125 was completed on 2026-09-08.
+WO-3126 | performed_on | pH Probe B | WO-3126: probe calibration on pH Probe B (2026-08-12).
+WO-3126 | action | Probe calibration | WO-3126 action: probe calibration.
+WO-3126 | completed_by | Operator Chen | WO-3126 was completed on 2026-08-12.
+WO-3127 | performed_on | Column Oven 1 | WO-3127: oven calibration on Column Oven 1 (2026-06-05).
+WO-3127 | action | Oven calibration | WO-3127 action: oven calibration.
+WO-3127 | completed_by | Operator Lindqvist | WO-3127 was completed on 2026-06-05.
+WO-3127 | found | Seal wear | WO-3127 inspection findings recorded.
+WO-3128 | performed_on | Agitator B | WO-3128: bearing inspection on Agitator B (2026-06-27).
+WO-3128 | action | Bearing inspection | WO-3128 action: bearing inspection.
+WO-3128 | completed_by | Operator Haddad | WO-3128 was completed on 2026-06-27.
+WO-3128 | found | Pad wear | WO-3128 inspection findings recorded.
+WO-3129 | performed_on | Agitator B | WO-3129: bearing inspection on Agitator B (2026-01-10).
+WO-3129 | action | Bearing inspection | WO-3129 action: bearing inspection.
+WO-3129 | completed_by | Operator Lindqvist | WO-3129 was completed on 2026-01-10.
+WO-3129 | found | Pad wear | WO-3129 inspection findings recorded.
+WO-3130 | performed_on | pH Probe B | WO-3130: probe calibration on pH Probe B (2026-01-04).
+WO-3130 | action | Probe calibration | WO-3130 action: probe calibration.
+WO-3130 | completed_by | Operator Lindqvist | WO-3130 was completed on 2026-01-04.
+WO-3131 | performed_on | pH Probe B | WO-3131: probe calibration on pH Probe B (2026-02-15).
+WO-3131 | action | Probe calibration | WO-3131 action: probe calibration.
+WO-3131 | completed_by | Operator Okafor | WO-3131 was completed on 2026-02-15.
+WO-3132 | performed_on | Feed Pump 2 | WO-3132: feed pump seal replacement on Feed Pump 2 (2026-07-27).
+WO-3132 | action | Feed pump seal replacement | WO-3132 action: feed pump seal replacement.
+WO-3132 | completed_by | Operator Lindqvist | WO-3132 was completed on 2026-07-27.
+WO-3133 | performed_on | Agitator B | WO-3133: bearing inspection on Agitator B (2026-09-03).
+WO-3133 | action | Bearing inspection | WO-3133 action: bearing inspection.
+WO-3133 | completed_by | Operator Ramos | WO-3133 was completed on 2026-09-03.
+WO-3133 | found | Normal condition | WO-3133 inspection findings recorded.
+WO-3134 | performed_on | Feed Pump 2 | WO-3134: feed pump seal replacement on Feed Pump 2 (2026-03-14).
+WO-3134 | action | Feed pump seal replacement | WO-3134 action: feed pump seal replacement.
+WO-3134 | completed_by | Operator Lindqvist | WO-3134 was completed on 2026-03-14.
+WO-3135 | performed_on | Degasser 1 | WO-3135: degasser service on Degasser 1 (2026-04-15).
+WO-3135 | action | Degasser service | WO-3135 action: degasser service.
+WO-3135 | completed_by | Operator Haddad | WO-3135 was completed on 2026-04-15.
+WO-3136 | performed_on | pH Probe B | WO-3136: probe calibration on pH Probe B (2026-03-08).
+WO-3136 | action | Probe calibration | WO-3136 action: probe calibration.
+WO-3136 | completed_by | Operator Ramos | WO-3136 was completed on 2026-03-08.
+WO-3137 | performed_on | Feed Pump 2 | WO-3137: feed pump seal replacement on Feed Pump 2 (2026-06-06).
+WO-3137 | action | Feed pump seal replacement | WO-3137 action: feed pump seal replacement.
+WO-3137 | completed_by | Operator Okafor | WO-3137 was completed on 2026-06-06.
+WO-3137 | found | Loose fitting | WO-3137 inspection findings recorded.
+WO-3138 | performed_on | HPLC Column C18-7 | WO-3138: column regeneration on HPLC Column C18-7 (2026-09-11).
+WO-3138 | action | Column regeneration | WO-3138 action: column regeneration.
+WO-3138 | completed_by | Operator Haddad | WO-3138 was completed on 2026-09-11.
+WO-3139 | performed_on | Degasser 1 | WO-3139: degasser service on Degasser 1 (2026-02-18).
+WO-3139 | action | Degasser service | WO-3139 action: degasser service.
+WO-3139 | completed_by | Operator Lindqvist | WO-3139 was completed on 2026-02-18.
+WO-3140 | performed_on | Degasser 1 | WO-3140: degasser service on Degasser 1 (2026-04-09).
+WO-3140 | action | Degasser service | WO-3140 action: degasser service.
+WO-3140 | completed_by | Operator Chen | WO-3140 was completed on 2026-04-09.
+WO-3141 | performed_on | Feed Pump 1 | WO-3141: feed pump seal replacement on Feed Pump 1 (2026-01-11).
+WO-3141 | action | Feed pump seal replacement | WO-3141 action: feed pump seal replacement.
+WO-3141 | completed_by | Operator Haddad | WO-3141 was completed on 2026-01-11.
+WO-3141 | found | Loose fitting | WO-3141 inspection findings recorded.
+WO-3142 | performed_on | Feed Pump 2 | WO-3142: feed pump seal replacement on Feed Pump 2 (2026-04-14).
+WO-3142 | action | Feed pump seal replacement | WO-3142 action: feed pump seal replacement.
+WO-3142 | completed_by | Operator Chen | WO-3142 was completed on 2026-04-14.
+WO-3142 | found | Loose fitting | WO-3142 inspection findings recorded.
+WO-3143 | performed_on | Column Oven 1 | WO-3143: oven calibration on Column Oven 1 (2026-05-16).
+WO-3143 | action | Oven calibration | WO-3143 action: oven calibration.
+WO-3143 | completed_by | Operator Haddad | WO-3143 was completed on 2026-05-16.
+WO-3144 | performed_on | Feed Pump 1 | WO-3144: feed pump seal replacement on Feed Pump 1 (2026-04-16).
+WO-3144 | action | Feed pump seal replacement | WO-3144 action: feed pump seal replacement.
+WO-3144 | completed_by | Operator Ramos | WO-3144 was completed on 2026-04-16.
+WO-3144 | found | Loose fitting | WO-3144 inspection findings recorded.
+WO-3145 | performed_on | Column Oven 1 | WO-3145: oven calibration on Column Oven 1 (2026-05-07).
+WO-3145 | action | Oven calibration | WO-3145 action: oven calibration.
+WO-3145 | completed_by | Operator Lindqvist | WO-3145 was completed on 2026-05-07.
+WO-3145 | found | Minor fouling | WO-3145 inspection findings recorded.
+WO-3146 | performed_on | Arm 3 Wrist Joint | WO-3146: joint lubrication on Arm 3 Wrist Joint (2026-06-25).
+WO-3146 | action | Joint lubrication | WO-3146 action: joint lubrication.
+WO-3146 | completed_by | Operator Okafor | WO-3146 was completed on 2026-06-25.
+WO-3146 | found | Minor fouling | WO-3146 inspection findings recorded.
+WO-3147 | performed_on | pH Probe B | WO-3147: probe calibration on pH Probe B (2026-04-10).
+WO-3147 | action | Probe calibration | WO-3147 action: probe calibration.
+WO-3147 | completed_by | Operator Chen | WO-3147 was completed on 2026-04-10.
+WO-3147 | found | Minor fouling | WO-3147 inspection findings recorded.
+WO-3148 | performed_on | HPLC Column C18-7 | WO-3148: column regeneration on HPLC Column C18-7 (2026-02-27).
+WO-3148 | action | Column regeneration | WO-3148 action: column regeneration.
+WO-3148 | completed_by | Operator Haddad | WO-3148 was completed on 2026-02-27.
+WO-3149 | performed_on | Feed Pump 2 | WO-3149: feed pump seal replacement on Feed Pump 2 (2026-09-06).
+WO-3149 | action | Feed pump seal replacement | WO-3149 action: feed pump seal replacement.
+WO-3149 | completed_by | Operator Okafor | WO-3149 was completed on 2026-09-06.
+WO-3150 | performed_on | Arm 3 Wrist Joint | WO-3150: joint lubrication on Arm 3 Wrist Joint (2026-07-03).
+WO-3150 | action | Joint lubrication | WO-3150 action: joint lubrication.
+WO-3150 | completed_by | Operator Lindqvist | WO-3150 was completed on 2026-07-03.
+WO-3150 | found | Loose fitting | WO-3150 inspection findings recorded.
+WO-3151 | performed_on | Feed Pump 2 | WO-3151: feed pump seal replacement on Feed Pump 2 (2026-03-07).
+WO-3151 | action | Feed pump seal replacement | WO-3151 action: feed pump seal replacement.
+WO-3151 | completed_by | Operator Haddad | WO-3151 was completed on 2026-03-07.
+WO-3152 | performed_on | Agitator B | WO-3152: bearing inspection on Agitator B (2026-02-24).
+WO-3152 | action | Bearing inspection | WO-3152 action: bearing inspection.
+WO-3152 | completed_by | Operator Haddad | WO-3152 was completed on 2026-02-24.
+WO-3152 | found | Minor fouling | WO-3152 inspection findings recorded.
+WO-3153 | performed_on | Column Oven 1 | WO-3153: oven calibration on Column Oven 1 (2026-05-21).
+WO-3153 | action | Oven calibration | WO-3153 action: oven calibration.
+WO-3153 | completed_by | Operator Haddad | WO-3153 was completed on 2026-05-21.
+WO-3154 | performed_on | Agitator B | WO-3154: bearing inspection on Agitator B (2026-08-22).
+WO-3154 | action | Bearing inspection | WO-3154 action: bearing inspection.
+WO-3154 | completed_by | Operator Lindqvist | WO-3154 was completed on 2026-08-22.
+WO-3154 | found | Minor fouling | WO-3154 inspection findings recorded.
+WO-3155 | performed_on | Arm 3 Wrist Joint | WO-3155: joint lubrication on Arm 3 Wrist Joint (2026-03-19).
+WO-3155 | action | Joint lubrication | WO-3155 action: joint lubrication.
+WO-3155 | completed_by | Operator Ramos | WO-3155 was completed on 2026-03-19.
+WO-3156 | performed_on | Agitator B | WO-3156: bearing inspection on Agitator B (2026-04-24).
+WO-3156 | action | Bearing inspection | WO-3156 action: bearing inspection.
+WO-3156 | completed_by | Operator Ramos | WO-3156 was completed on 2026-04-24.
+WO-3156 | found | Normal condition | WO-3156 inspection findings recorded.
+WO-3157 | performed_on | pH Probe B | WO-3157: probe calibration on pH Probe B (2026-07-28).
+WO-3157 | action | Probe calibration | WO-3157 action: probe calibration.
+WO-3157 | completed_by | Operator Lindqvist | WO-3157 was completed on 2026-07-28.
+WO-3157 | found | Pad wear | WO-3157 inspection findings recorded.
+WO-3158 | performed_on | Degasser 1 | WO-3158: degasser service on Degasser 1 (2026-05-02).
+WO-3158 | action | Degasser service | WO-3158 action: degasser service.
+WO-3158 | completed_by | Operator Lindqvist | WO-3158 was completed on 2026-05-02.
+WO-3159 | performed_on | Feed Pump 2 | WO-3159: feed pump seal replacement on Feed Pump 2 (2026-04-16).
+WO-3159 | action | Feed pump seal replacement | WO-3159 action: feed pump seal replacement.
+WO-3159 | completed_by | Operator Lindqvist | WO-3159 was completed on 2026-04-16.
+WO-3160 | performed_on | Degasser 1 | WO-3160: degasser service on Degasser 1 (2026-01-26).
+WO-3160 | action | Degasser service | WO-3160 action: degasser service.
+WO-3160 | completed_by | Operator Okafor | WO-3160 was completed on 2026-01-26.
+WO-3161 | performed_on | HPLC Column C18-7 | WO-3161: column regeneration on HPLC Column C18-7 (2026-09-25).
+WO-3161 | action | Column regeneration | WO-3161 action: column regeneration.
+WO-3161 | completed_by | Operator Lindqvist | WO-3161 was completed on 2026-09-25.
+WO-3162 | performed_on | HPLC Column C18-7 | WO-3162: column regeneration on HPLC Column C18-7 (2026-08-02).
+WO-3162 | action | Column regeneration | WO-3162 action: column regeneration.
+WO-3162 | completed_by | Operator Haddad | WO-3162 was completed on 2026-08-02.
+WO-3163 | performed_on | Feed Pump 1 | WO-3163: feed pump seal replacement on Feed Pump 1 (2026-05-06).
+WO-3163 | action | Feed pump seal replacement | WO-3163 action: feed pump seal replacement.
+WO-3163 | completed_by | Operator Lindqvist | WO-3163 was completed on 2026-05-06.
+WO-3163 | found | Pad wear | WO-3163 inspection findings recorded.
+WO-3164 | performed_on | HPLC Column C18-7 | WO-3164: column regeneration on HPLC Column C18-7 (2026-05-28).
+WO-3164 | action | Column regeneration | WO-3164 action: column regeneration.
+WO-3164 | completed_by | Operator Ramos | WO-3164 was completed on 2026-05-28.
+WO-3164 | found | Pad wear | WO-3164 inspection findings recorded.
+WO-3165 | performed_on | Arm 3 Wrist Joint | WO-3165: joint lubrication on Arm 3 Wrist Joint (2026-04-21).
+WO-3165 | action | Joint lubrication | WO-3165 action: joint lubrication.
+WO-3165 | completed_by | Operator Okafor | WO-3165 was completed on 2026-04-21.
+WO-3165 | found | Minor fouling | WO-3165 inspection findings recorded.
+WO-3166 | performed_on | HPLC Column C18-7 | WO-3166: column regeneration on HPLC Column C18-7 (2026-02-18).
+WO-3166 | action | Column regeneration | WO-3166 action: column regeneration.
+WO-3166 | completed_by | Operator Lindqvist | WO-3166 was completed on 2026-02-18.
+WO-3166 | found | Normal condition | WO-3166 inspection findings recorded.
+WO-3167 | performed_on | Feed Pump 1 | WO-3167: feed pump seal replacement on Feed Pump 1 (2026-05-16).
+WO-3167 | action | Feed pump seal replacement | WO-3167 action: feed pump seal replacement.
+WO-3167 | completed_by | Operator Okafor | WO-3167 was completed on 2026-05-16.
+WO-3168 | performed_on | Agitator B | WO-3168: bearing inspection on Agitator B (2026-08-02).
+WO-3168 | action | Bearing inspection | WO-3168 action: bearing inspection.
+WO-3168 | completed_by | Operator Ramos | WO-3168 was completed on 2026-08-02.
+WO-3168 | found | Seal wear | WO-3168 inspection findings recorded.
+WO-3169 | performed_on | Arm 3 Wrist Joint | WO-3169: joint lubrication on Arm 3 Wrist Joint (2026-06-21).
+WO-3169 | action | Joint lubrication | WO-3169 action: joint lubrication.
+WO-3169 | completed_by | Operator Chen | WO-3169 was completed on 2026-06-21.
+WO-3170 | performed_on | Agitator B | WO-3170: bearing inspection on Agitator B (2026-09-13).
+WO-3170 | action | Bearing inspection | WO-3170 action: bearing inspection.
+WO-3170 | completed_by | Operator Okafor | WO-3170 was completed on 2026-09-13.
+WO-3170 | found | Seal wear | WO-3170 inspection findings recorded.

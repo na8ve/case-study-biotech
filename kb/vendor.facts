@@ -1,0 +1,20 @@
+# Lab knowledge: vendor (synthetic).
+HPLC Suite 1 | reports | Retention time | The HPLC Suite 1 controller streams retention time at 10 Hz.
+HPLC Suite 1 | reports | Column pressure | The HPLC Suite 1 controller streams column pressure at 10 Hz.
+HPLC Suite 1 | reports | Peak area | The HPLC Suite 1 controller streams peak area at 10 Hz.
+Bioreactor B | reports | pH | The Bioreactor B controller streams ph at 10 Hz.
+Bioreactor B | reports | Temperature | The Bioreactor B controller streams temperature at 10 Hz.
+Bioreactor B | reports | Viscosity | The Bioreactor B controller streams viscosity at 10 Hz.
+Bioreactor B | reports | Glucose feed rate | The Bioreactor B controller streams glucose feed rate at 10 Hz.
+Robotic Arm 3 | reports | Torque | The Robotic Arm 3 controller streams torque at 10 Hz.
+Robotic Arm 3 | reports | Cycle count | The Robotic Arm 3 controller streams cycle count at 10 Hz.
+Feed Pump 2 | prone_to | Micro-cavitation | Vendor bulletin: Feed Pump 2 is prone to micro-cavitation when its inlet seal wears.
+Micro-cavitation | causes | Glucose feed spike | Vendor bulletin: Micro-cavitation in a feed pump causes uneven, spiking glucose delivery.
+Glucose feed spike | causes | Broth viscosity rise | Vendor bulletin: A glucose feed spike raises broth viscosity within minutes.
+Broth viscosity rise | causes | Pipetting drag | Vendor bulletin: Viscous broth drags on the pipette head during aspiration.
+Pipetting drag | causes | Torque drop | Vendor bulletin: Pipetting drag lowers the arm's measured joint torque.
+Torque drop | triggers | E-14 | Vendor bulletin: A torque drop below 12 Nm triggers error E-14 on the robotic arms.
+Gripper wear | causes | Torque drop | Vendor bulletin: gripper wear can reduce torque readings.
+HPLC Column C18-7 | prone_to | Column fouling | Vendor bulletin: The C18-7 column fouls with host-cell protein over successive runs.
+Column fouling | causes | Column pressure rise | Vendor bulletin: A fouling column raises back-pressure.
+Column pressure rise | causes | Retention time drift | Vendor bulletin: Rising column pressure shifts retention time later.

@@ -1,0 +1,507 @@
+# Batch records 301-350 (synthetic).
+Batch 301 | produced_in | Bioreactor B | Batch 301 was produced in Bioreactor B.
+Batch 301 | produces | Enzyme ENZ-3 | Batch 301 produces Enzyme ENZ-3.
+Batch 301 | uses_strain | E. coli BL21 pET-4 | Batch 301 uses a production cell line.
+Batch 301 | uses_media | BMGY medium | Batch 301 uses a defined medium.
+Batch 301 | sampled_by | Robotic Arm 3 | Batch 301 is sampled by a robotic arm every hour.
+Batch 301 | assayed_on | HPLC Suite 1 | Batch 301 titre is assayed by HPLC.
+Batch 301 | supervised_by | Operator Ramos | Batch 301 is supervised by the shift operator.
+Batch 301 | titre | 4.3 g/L | Batch 301 reached a final titre of 5.6 g/L.
+Batch 301 | yield | 81% | Batch 301 purification yield was 87%.
+Batch 301 | outcome | Released | Batch 301 was released after QA review.
+Batch 302 | produced_in | Bioreactor A | Batch 302 was produced in Bioreactor A.
+Batch 302 | produces | Enzyme ENZ-3 | Batch 302 produces Enzyme ENZ-3.
+Batch 302 | uses_strain | Pichia GS115 line 3 | Batch 302 uses a production cell line.
+Batch 302 | uses_media | Terrific broth | Batch 302 uses a defined medium.
+Batch 302 | sampled_by | Robotic Arm 1 | Batch 302 is sampled by a robotic arm every hour.
+Batch 302 | assayed_on | HPLC Suite 2 | Batch 302 titre is assayed by HPLC.
+Batch 302 | supervised_by | Operator Ramos | Batch 302 is supervised by the shift operator.
+Batch 302 | titre | 4.0 g/L | Batch 302 reached a final titre of 4.1 g/L.
+Batch 302 | yield | 76% | Batch 302 purification yield was 82%.
+Batch 302 | outcome | Released | Batch 302 was released after QA review.
+Batch 303 | produced_in | Bioreactor B | Batch 303 was produced in Bioreactor B.
+Batch 303 | produces | Enzyme ENZ-3 | Batch 303 produces Enzyme ENZ-3.
+Batch 303 | uses_strain | CHO-K1 clone 12 | Batch 303 uses a production cell line.
+Batch 303 | uses_media | BMGY medium | Batch 303 uses a defined medium.
+Batch 303 | sampled_by | Robotic Arm 3 | Batch 303 is sampled by a robotic arm every hour.
+Batch 303 | assayed_on | HPLC Suite 1 | Batch 303 titre is assayed by HPLC.
+Batch 303 | supervised_by | Operator Lindqvist | Batch 303 is supervised by the shift operator.
+Batch 303 | titre | 6.7 g/L | Batch 303 reached a final titre of 3.2 g/L.
+Batch 303 | yield | 91% | Batch 303 purification yield was 82%.
+Batch 303 | outcome | Rejected | Batch 303 was rejected after QA review.
+Batch 303 | rejected_for | Contamination | Batch 303 failed a release specification.
+Batch 304 | produced_in | Bioreactor B | Batch 304 was produced in Bioreactor B.
+Batch 304 | produces | mAb-201 | Batch 304 produces mAb-201.
+Batch 304 | uses_strain | E. coli BL21 pET-4 | Batch 304 uses a production cell line.
+Batch 304 | uses_media | CD-CHO medium | Batch 304 uses a defined medium.
+Batch 304 | sampled_by | Robotic Arm 3 | Batch 304 is sampled by a robotic arm every hour.
+Batch 304 | assayed_on | HPLC Suite 1 | Batch 304 titre is assayed by HPLC.
+Batch 304 | supervised_by | Operator Lindqvist | Batch 304 is supervised by the shift operator.
+Batch 304 | titre | 2.8 g/L | Batch 304 reached a final titre of 3.2 g/L.
+Batch 304 | yield | 71% | Batch 304 purification yield was 74%.
+Batch 304 | outcome | Released | Batch 304 was released after QA review.
+Batch 305 | produced_in | Bioreactor C | Batch 305 was produced in Bioreactor C.
+Batch 305 | produces | Enzyme ENZ-3 | Batch 305 produces Enzyme ENZ-3.
+Batch 305 | uses_strain | E. coli BL21 pET-4 | Batch 305 uses a production cell line.
+Batch 305 | uses_media | Terrific broth | Batch 305 uses a defined medium.
+Batch 305 | sampled_by | Robotic Arm 2 | Batch 305 is sampled by a robotic arm every hour.
+Batch 305 | assayed_on | HPLC Suite 1 | Batch 305 titre is assayed by HPLC.
+Batch 305 | supervised_by | Operator Lindqvist | Batch 305 is supervised by the shift operator.
+Batch 305 | titre | 3.2 g/L | Batch 305 reached a final titre of 5.2 g/L.
+Batch 305 | yield | 78% | Batch 305 purification yield was 75%.
+Batch 305 | outcome | Released | Batch 305 was released after QA review.
+Batch 306 | produced_in | Bioreactor B | Batch 306 was produced in Bioreactor B.
+Batch 306 | produces | mAb-207 | Batch 306 produces mAb-207.
+Batch 306 | uses_strain | CHO-K1 clone 7 | Batch 306 uses a production cell line.
+Batch 306 | uses_media | BMGY medium | Batch 306 uses a defined medium.
+Batch 306 | sampled_by | Robotic Arm 3 | Batch 306 is sampled by a robotic arm every hour.
+Batch 306 | assayed_on | HPLC Suite 1 | Batch 306 titre is assayed by HPLC.
+Batch 306 | supervised_by | Operator Ramos | Batch 306 is supervised by the shift operator.
+Batch 306 | titre | 2.8 g/L | Batch 306 reached a final titre of 2.6 g/L.
+Batch 306 | yield | 78% | Batch 306 purification yield was 68%.
+Batch 306 | outcome | Released | Batch 306 was released after QA review.
+Batch 307 | produced_in | Bioreactor B | Batch 307 was produced in Bioreactor B.
+Batch 307 | produces | Enzyme ENZ-3 | Batch 307 produces Enzyme ENZ-3.
+Batch 307 | uses_strain | E. coli BL21 pET-4 | Batch 307 uses a production cell line.
+Batch 307 | uses_media | CD-CHO medium | Batch 307 uses a defined medium.
+Batch 307 | sampled_by | Robotic Arm 3 | Batch 307 is sampled by a robotic arm every hour.
+Batch 307 | assayed_on | HPLC Suite 1 | Batch 307 titre is assayed by HPLC.
+Batch 307 | supervised_by | Operator Haddad | Batch 307 is supervised by the shift operator.
+Batch 307 | titre | 4.0 g/L | Batch 307 reached a final titre of 5.1 g/L.
+Batch 307 | yield | 87% | Batch 307 purification yield was 65%.
+Batch 307 | outcome | Released | Batch 307 was released after QA review.
+Batch 308 | produced_in | Bioreactor C | Batch 308 was produced in Bioreactor C.
+Batch 308 | produces | Enzyme ENZ-3 | Batch 308 produces Enzyme ENZ-3.
+Batch 308 | uses_strain | Pichia GS115 line 3 | Batch 308 uses a production cell line.
+Batch 308 | uses_media | Terrific broth | Batch 308 uses a defined medium.
+Batch 308 | sampled_by | Robotic Arm 3 | Batch 308 is sampled by a robotic arm every hour.
+Batch 308 | assayed_on | HPLC Suite 1 | Batch 308 titre is assayed by HPLC.
+Batch 308 | supervised_by | Operator Ramos | Batch 308 is supervised by the shift operator.
+Batch 308 | titre | 5.2 g/L | Batch 308 reached a final titre of 2.6 g/L.
+Batch 308 | yield | 72% | Batch 308 purification yield was 81%.
+Batch 308 | outcome | Released | Batch 308 was released after QA review.
+Batch 309 | produced_in | Bioreactor A | Batch 309 was produced in Bioreactor A.
+Batch 309 | produces | mAb-201 | Batch 309 produces mAb-201.
+Batch 309 | uses_strain | CHO-K1 clone 12 | Batch 309 uses a production cell line.
+Batch 309 | uses_media | CD-CHO medium | Batch 309 uses a defined medium.
+Batch 309 | sampled_by | Robotic Arm 2 | Batch 309 is sampled by a robotic arm every hour.
+Batch 309 | assayed_on | HPLC Suite 1 | Batch 309 titre is assayed by HPLC.
+Batch 309 | supervised_by | Operator Lindqvist | Batch 309 is supervised by the shift operator.
+Batch 309 | titre | 6.7 g/L | Batch 309 reached a final titre of 5.8 g/L.
+Batch 309 | yield | 67% | Batch 309 purification yield was 68%.
+Batch 309 | outcome | Released | Batch 309 was released after QA review.
+Batch 310 | produced_in | Bioreactor B | Batch 310 was produced in Bioreactor B.
+Batch 310 | produces | mAb-201 | Batch 310 produces mAb-201.
+Batch 310 | uses_strain | E. coli BL21 pET-4 | Batch 310 uses a production cell line.
+Batch 310 | uses_media | Terrific broth | Batch 310 uses a defined medium.
+Batch 310 | sampled_by | Robotic Arm 3 | Batch 310 is sampled by a robotic arm every hour.
+Batch 310 | assayed_on | HPLC Suite 1 | Batch 310 titre is assayed by HPLC.
+Batch 310 | supervised_by | Operator Okafor | Batch 310 is supervised by the shift operator.
+Batch 310 | titre | 2.7 g/L | Batch 310 reached a final titre of 5.8 g/L.
+Batch 310 | yield | 84% | Batch 310 purification yield was 86%.
+Batch 310 | outcome | Released | Batch 310 was released after QA review.
+Batch 311 | produced_in | Bioreactor B | Batch 311 was produced in Bioreactor B.
+Batch 311 | produces | mAb-201 | Batch 311 produces mAb-201.
+Batch 311 | uses_strain | E. coli BL21 pET-4 | Batch 311 uses a production cell line.
+Batch 311 | uses_media | Terrific broth | Batch 311 uses a defined medium.
+Batch 311 | sampled_by | Robotic Arm 3 | Batch 311 is sampled by a robotic arm every hour.
+Batch 311 | assayed_on | HPLC Suite 1 | Batch 311 titre is assayed by HPLC.
+Batch 311 | supervised_by | Operator Haddad | Batch 311 is supervised by the shift operator.
+Batch 311 | titre | 4.3 g/L | Batch 311 reached a final titre of 6.3 g/L.
+Batch 311 | yield | 71% | Batch 311 purification yield was 82%.
+Batch 311 | outcome | Released | Batch 311 was released after QA review.
+Batch 312 | produced_in | Bioreactor B | Batch 312 was produced in Bioreactor B.
+Batch 312 | produces | Fusion protein FP-9 | Batch 312 produces Fusion protein FP-9.
+Batch 312 | uses_strain | CHO-K1 clone 12 | Batch 312 uses a production cell line.
+Batch 312 | uses_media | CD-CHO medium | Batch 312 uses a defined medium.
+Batch 312 | sampled_by | Robotic Arm 3 | Batch 312 is sampled by a robotic arm every hour.
+Batch 312 | assayed_on | HPLC Suite 1 | Batch 312 titre is assayed by HPLC.
+Batch 312 | supervised_by | Operator Ramos | Batch 312 is supervised by the shift operator.
+Batch 312 | titre | 5.3 g/L | Batch 312 reached a final titre of 4.5 g/L.
+Batch 312 | yield | 89% | Batch 312 purification yield was 68%.
+Batch 312 | outcome | Released | Batch 312 was released after QA review.
+Batch 313 | produced_in | Bioreactor B | Batch 313 was produced in Bioreactor B.
+Batch 313 | produces | Fusion protein FP-9 | Batch 313 produces Fusion protein FP-9.
+Batch 313 | uses_strain | CHO-K1 clone 12 | Batch 313 uses a production cell line.
+Batch 313 | uses_media | BMGY medium | Batch 313 uses a defined medium.
+Batch 313 | sampled_by | Robotic Arm 3 | Batch 313 is sampled by a robotic arm every hour.
+Batch 313 | assayed_on | HPLC Suite 1 | Batch 313 titre is assayed by HPLC.
+Batch 313 | supervised_by | Operator Haddad | Batch 313 is supervised by the shift operator.
+Batch 313 | titre | 5.9 g/L | Batch 313 reached a final titre of 4.6 g/L.
+Batch 313 | yield | 76% | Batch 313 purification yield was 84%.
+Batch 313 | outcome | Released | Batch 313 was released after QA review.
+Batch 314 | produced_in | Bioreactor B | Batch 314 was produced in Bioreactor B.
+Batch 314 | produces | Fusion protein FP-9 | Batch 314 produces Fusion protein FP-9.
+Batch 314 | uses_strain | E. coli BL21 pET-4 | Batch 314 uses a production cell line.
+Batch 314 | uses_media | CD-CHO medium | Batch 314 uses a defined medium.
+Batch 314 | sampled_by | Robotic Arm 3 | Batch 314 is sampled by a robotic arm every hour.
+Batch 314 | assayed_on | HPLC Suite 1 | Batch 314 titre is assayed by HPLC.
+Batch 314 | supervised_by | Operator Chen | Batch 314 is supervised by the shift operator.
+Batch 314 | titre | 4.9 g/L | Batch 314 reached a final titre of 5.9 g/L.
+Batch 314 | yield | 76% | Batch 314 purification yield was 84%.
+Batch 314 | outcome | Released | Batch 314 was released after QA review.
+Batch 315 | produced_in | Bioreactor A | Batch 315 was produced in Bioreactor A.
+Batch 315 | produces | Fusion protein FP-9 | Batch 315 produces Fusion protein FP-9.
+Batch 315 | uses_strain | Pichia GS115 line 3 | Batch 315 uses a production cell line.
+Batch 315 | uses_media | CD-CHO medium | Batch 315 uses a defined medium.
+Batch 315 | sampled_by | Robotic Arm 1 | Batch 315 is sampled by a robotic arm every hour.
+Batch 315 | assayed_on | HPLC Suite 2 | Batch 315 titre is assayed by HPLC.
+Batch 315 | supervised_by | Operator Okafor | Batch 315 is supervised by the shift operator.
+Batch 315 | titre | 3.6 g/L | Batch 315 reached a final titre of 3.6 g/L.
+Batch 315 | yield | 67% | Batch 315 purification yield was 80%.
+Batch 315 | outcome | Released | Batch 315 was released after QA review.
+Batch 316 | produced_in | Bioreactor A | Batch 316 was produced in Bioreactor A.
+Batch 316 | produces | Fusion protein FP-9 | Batch 316 produces Fusion protein FP-9.
+Batch 316 | uses_strain | CHO-K1 clone 12 | Batch 316 uses a production cell line.
+Batch 316 | uses_media | Terrific broth | Batch 316 uses a defined medium.
+Batch 316 | sampled_by | Robotic Arm 1 | Batch 316 is sampled by a robotic arm every hour.
+Batch 316 | assayed_on | HPLC Suite 1 | Batch 316 titre is assayed by HPLC.
+Batch 316 | supervised_by | Operator Haddad | Batch 316 is supervised by the shift operator.
+Batch 316 | titre | 2.9 g/L | Batch 316 reached a final titre of 6.2 g/L.
+Batch 316 | yield | 83% | Batch 316 purification yield was 70%.
+Batch 316 | outcome | Released | Batch 316 was released after QA review.
+Batch 317 | produced_in | Bioreactor B | Batch 317 was produced in Bioreactor B.
+Batch 317 | produces | mAb-207 | Batch 317 produces mAb-207.
+Batch 317 | uses_strain | CHO-K1 clone 7 | Batch 317 uses a production cell line.
+Batch 317 | uses_media | Terrific broth | Batch 317 uses a defined medium.
+Batch 317 | sampled_by | Robotic Arm 3 | Batch 317 is sampled by a robotic arm every hour.
+Batch 317 | assayed_on | HPLC Suite 1 | Batch 317 titre is assayed by HPLC.
+Batch 317 | supervised_by | Operator Lindqvist | Batch 317 is supervised by the shift operator.
+Batch 317 | titre | 2.5 g/L | Batch 317 reached a final titre of 5.6 g/L.
+Batch 317 | yield | 86% | Batch 317 purification yield was 73%.
+Batch 317 | outcome | Rejected | Batch 317 was rejected after QA review.
+Batch 317 | rejected_for | pH excursion | Batch 317 failed a release specification.
+Batch 318 | produced_in | Bioreactor B | Batch 318 was produced in Bioreactor B.
+Batch 318 | produces | mAb-207 | Batch 318 produces mAb-207.
+Batch 318 | uses_strain | E. coli BL21 pET-4 | Batch 318 uses a production cell line.
+Batch 318 | uses_media | BMGY medium | Batch 318 uses a defined medium.
+Batch 318 | sampled_by | Robotic Arm 3 | Batch 318 is sampled by a robotic arm every hour.
+Batch 318 | assayed_on | HPLC Suite 1 | Batch 318 titre is assayed by HPLC.
+Batch 318 | supervised_by | Operator Lindqvist | Batch 318 is supervised by the shift operator.
+Batch 318 | titre | 3.7 g/L | Batch 318 reached a final titre of 6.0 g/L.
+Batch 318 | yield | 66% | Batch 318 purification yield was 82%.
+Batch 318 | outcome | Released | Batch 318 was released after QA review.
+Batch 319 | produced_in | Bioreactor A | Batch 319 was produced in Bioreactor A.
+Batch 319 | produces | mAb-207 | Batch 319 produces mAb-207.
+Batch 319 | uses_strain | Pichia GS115 line 3 | Batch 319 uses a production cell line.
+Batch 319 | uses_media | Terrific broth | Batch 319 uses a defined medium.
+Batch 319 | sampled_by | Robotic Arm 2 | Batch 319 is sampled by a robotic arm every hour.
+Batch 319 | assayed_on | HPLC Suite 2 | Batch 319 titre is assayed by HPLC.
+Batch 319 | supervised_by | Operator Chen | Batch 319 is supervised by the shift operator.
+Batch 319 | titre | 5.9 g/L | Batch 319 reached a final titre of 6.3 g/L.
+Batch 319 | yield | 82% | Batch 319 purification yield was 84%.
+Batch 319 | outcome | Released | Batch 319 was released after QA review.
+Batch 320 | produced_in | Bioreactor C | Batch 320 was produced in Bioreactor C.
+Batch 320 | produces | Fusion protein FP-9 | Batch 320 produces Fusion protein FP-9.
+Batch 320 | uses_strain | E. coli BL21 pET-4 | Batch 320 uses a production cell line.
+Batch 320 | uses_media | BMGY medium | Batch 320 uses a defined medium.
+Batch 320 | sampled_by | Robotic Arm 3 | Batch 320 is sampled by a robotic arm every hour.
+Batch 320 | assayed_on | HPLC Suite 2 | Batch 320 titre is assayed by HPLC.
+Batch 320 | supervised_by | Operator Chen | Batch 320 is supervised by the shift operator.
+Batch 320 | titre | 5.8 g/L | Batch 320 reached a final titre of 4.7 g/L.
+Batch 320 | yield | 84% | Batch 320 purification yield was 81%.
+Batch 320 | outcome | Released | Batch 320 was released after QA review.
+Batch 321 | produced_in | Bioreactor C | Batch 321 was produced in Bioreactor C.
+Batch 321 | produces | Fusion protein FP-9 | Batch 321 produces Fusion protein FP-9.
+Batch 321 | uses_strain | Pichia GS115 line 3 | Batch 321 uses a production cell line.
+Batch 321 | uses_media | EX-CELL 325 | Batch 321 uses a defined medium.
+Batch 321 | sampled_by | Robotic Arm 2 | Batch 321 is sampled by a robotic arm every hour.
+Batch 321 | assayed_on | HPLC Suite 1 | Batch 321 titre is assayed by HPLC.
+Batch 321 | supervised_by | Operator Lindqvist | Batch 321 is supervised by the shift operator.
+Batch 321 | titre | 3.2 g/L | Batch 321 reached a final titre of 4.4 g/L.
+Batch 321 | yield | 88% | Batch 321 purification yield was 78%.
+Batch 321 | outcome | Released | Batch 321 was released after QA review.
+Batch 322 | produced_in | Bioreactor B | Batch 322 was produced in Bioreactor B.
+Batch 322 | produces | mAb-201 | Batch 322 produces mAb-201.
+Batch 322 | uses_strain | CHO-K1 clone 7 | Batch 322 uses a production cell line.
+Batch 322 | uses_media | BMGY medium | Batch 322 uses a defined medium.
+Batch 322 | sampled_by | Robotic Arm 3 | Batch 322 is sampled by a robotic arm every hour.
+Batch 322 | assayed_on | HPLC Suite 1 | Batch 322 titre is assayed by HPLC.
+Batch 322 | supervised_by | Operator Haddad | Batch 322 is supervised by the shift operator.
+Batch 322 | titre | 5.1 g/L | Batch 322 reached a final titre of 3.0 g/L.
+Batch 322 | yield | 73% | Batch 322 purification yield was 72%.
+Batch 322 | outcome | Released | Batch 322 was released after QA review.
+Batch 323 | produced_in | Bioreactor B | Batch 323 was produced in Bioreactor B.
+Batch 323 | produces | Fusion protein FP-9 | Batch 323 produces Fusion protein FP-9.
+Batch 323 | uses_strain | CHO-K1 clone 7 | Batch 323 uses a production cell line.
+Batch 323 | uses_media | EX-CELL 325 | Batch 323 uses a defined medium.
+Batch 323 | sampled_by | Robotic Arm 3 | Batch 323 is sampled by a robotic arm every hour.
+Batch 323 | assayed_on | HPLC Suite 1 | Batch 323 titre is assayed by HPLC.
+Batch 323 | supervised_by | Operator Ramos | Batch 323 is supervised by the shift operator.
+Batch 323 | titre | 5.5 g/L | Batch 323 reached a final titre of 6.6 g/L.
+Batch 323 | yield | 80% | Batch 323 purification yield was 68%.
+Batch 323 | outcome | Released | Batch 323 was released after QA review.
+Batch 324 | produced_in | Bioreactor C | Batch 324 was produced in Bioreactor C.
+Batch 324 | produces | mAb-207 | Batch 324 produces mAb-207.
+Batch 324 | uses_strain | Pichia GS115 line 3 | Batch 324 uses a production cell line.
+Batch 324 | uses_media | CD-CHO medium | Batch 324 uses a defined medium.
+Batch 324 | sampled_by | Robotic Arm 1 | Batch 324 is sampled by a robotic arm every hour.
+Batch 324 | assayed_on | HPLC Suite 1 | Batch 324 titre is assayed by HPLC.
+Batch 324 | supervised_by | Operator Okafor | Batch 324 is supervised by the shift operator.
+Batch 324 | titre | 6.0 g/L | Batch 324 reached a final titre of 5.8 g/L.
+Batch 324 | yield | 85% | Batch 324 purification yield was 87%.
+Batch 324 | outcome | Released | Batch 324 was released after QA review.
+Batch 325 | produced_in | Bioreactor B | Batch 325 was produced in Bioreactor B.
+Batch 325 | produces | Enzyme ENZ-3 | Batch 325 produces Enzyme ENZ-3.
+Batch 325 | uses_strain | CHO-K1 clone 12 | Batch 325 uses a production cell line.
+Batch 325 | uses_media | EX-CELL 325 | Batch 325 uses a defined medium.
+Batch 325 | sampled_by | Robotic Arm 3 | Batch 325 is sampled by a robotic arm every hour.
+Batch 325 | assayed_on | HPLC Suite 1 | Batch 325 titre is assayed by HPLC.
+Batch 325 | supervised_by | Operator Chen | Batch 325 is supervised by the shift operator.
+Batch 325 | titre | 4.3 g/L | Batch 325 reached a final titre of 2.9 g/L.
+Batch 325 | yield | 66% | Batch 325 purification yield was 69%.
+Batch 325 | outcome | Released | Batch 325 was released after QA review.
+Batch 326 | produced_in | Bioreactor B | Batch 326 was produced in Bioreactor B.
+Batch 326 | produces | mAb-207 | Batch 326 produces mAb-207.
+Batch 326 | uses_strain | CHO-K1 clone 12 | Batch 326 uses a production cell line.
+Batch 326 | uses_media | BMGY medium | Batch 326 uses a defined medium.
+Batch 326 | sampled_by | Robotic Arm 3 | Batch 326 is sampled by a robotic arm every hour.
+Batch 326 | assayed_on | HPLC Suite 1 | Batch 326 titre is assayed by HPLC.
+Batch 326 | supervised_by | Operator Haddad | Batch 326 is supervised by the shift operator.
+Batch 326 | titre | 4.8 g/L | Batch 326 reached a final titre of 4.1 g/L.
+Batch 326 | yield | 86% | Batch 326 purification yield was 82%.
+Batch 326 | outcome | Released | Batch 326 was released after QA review.
+Batch 327 | produced_in | Bioreactor C | Batch 327 was produced in Bioreactor C.
+Batch 327 | produces | Enzyme ENZ-3 | Batch 327 produces Enzyme ENZ-3.
+Batch 327 | uses_strain | Pichia GS115 line 3 | Batch 327 uses a production cell line.
+Batch 327 | uses_media | Terrific broth | Batch 327 uses a defined medium.
+Batch 327 | sampled_by | Robotic Arm 2 | Batch 327 is sampled by a robotic arm every hour.
+Batch 327 | assayed_on | HPLC Suite 2 | Batch 327 titre is assayed by HPLC.
+Batch 327 | supervised_by | Operator Lindqvist | Batch 327 is supervised by the shift operator.
+Batch 327 | titre | 4.6 g/L | Batch 327 reached a final titre of 6.0 g/L.
+Batch 327 | yield | 88% | Batch 327 purification yield was 63%.
+Batch 327 | outcome | Rejected | Batch 327 was rejected after QA review.
+Batch 327 | rejected_for | Aggregation | Batch 327 failed a release specification.
+Batch 328 | produced_in | Bioreactor B | Batch 328 was produced in Bioreactor B.
+Batch 328 | produces | mAb-207 | Batch 328 produces mAb-207.
+Batch 328 | uses_strain | CHO-K1 clone 7 | Batch 328 uses a production cell line.
+Batch 328 | uses_media | Terrific broth | Batch 328 uses a defined medium.
+Batch 328 | sampled_by | Robotic Arm 3 | Batch 328 is sampled by a robotic arm every hour.
+Batch 328 | assayed_on | HPLC Suite 1 | Batch 328 titre is assayed by HPLC.
+Batch 328 | supervised_by | Operator Chen | Batch 328 is supervised by the shift operator.
+Batch 328 | titre | 3.5 g/L | Batch 328 reached a final titre of 4.8 g/L.
+Batch 328 | yield | 78% | Batch 328 purification yield was 76%.
+Batch 328 | outcome | Released | Batch 328 was released after QA review.
+Batch 329 | produced_in | Bioreactor B | Batch 329 was produced in Bioreactor B.
+Batch 329 | produces | mAb-207 | Batch 329 produces mAb-207.
+Batch 329 | uses_strain | CHO-K1 clone 12 | Batch 329 uses a production cell line.
+Batch 329 | uses_media | EX-CELL 325 | Batch 329 uses a defined medium.
+Batch 329 | sampled_by | Robotic Arm 3 | Batch 329 is sampled by a robotic arm every hour.
+Batch 329 | assayed_on | HPLC Suite 1 | Batch 329 titre is assayed by HPLC.
+Batch 329 | supervised_by | Operator Lindqvist | Batch 329 is supervised by the shift operator.
+Batch 329 | titre | 5.3 g/L | Batch 329 reached a final titre of 6.3 g/L.
+Batch 329 | yield | 88% | Batch 329 purification yield was 62%.
+Batch 329 | outcome | Released | Batch 329 was released after QA review.
+Batch 330 | produced_in | Bioreactor A | Batch 330 was produced in Bioreactor A.
+Batch 330 | produces | Fusion protein FP-9 | Batch 330 produces Fusion protein FP-9.
+Batch 330 | uses_strain | E. coli BL21 pET-4 | Batch 330 uses a production cell line.
+Batch 330 | uses_media | Terrific broth | Batch 330 uses a defined medium.
+Batch 330 | sampled_by | Robotic Arm 3 | Batch 330 is sampled by a robotic arm every hour.
+Batch 330 | assayed_on | HPLC Suite 1 | Batch 330 titre is assayed by HPLC.
+Batch 330 | supervised_by | Operator Haddad | Batch 330 is supervised by the shift operator.
+Batch 330 | titre | 2.2 g/L | Batch 330 reached a final titre of 3.5 g/L.
+Batch 330 | yield | 83% | Batch 330 purification yield was 72%.
+Batch 330 | outcome | Released | Batch 330 was released after QA review.
+Batch 331 | produced_in | Bioreactor B | Batch 331 was produced in Bioreactor B.
+Batch 331 | produces | mAb-207 | Batch 331 produces mAb-207.
+Batch 331 | uses_strain | E. coli BL21 pET-4 | Batch 331 uses a production cell line.
+Batch 331 | uses_media | BMGY medium | Batch 331 uses a defined medium.
+Batch 331 | sampled_by | Robotic Arm 3 | Batch 331 is sampled by a robotic arm every hour.
+Batch 331 | assayed_on | HPLC Suite 1 | Batch 331 titre is assayed by HPLC.
+Batch 331 | supervised_by | Operator Chen | Batch 331 is supervised by the shift operator.
+Batch 331 | titre | 2.7 g/L | Batch 331 reached a final titre of 5.4 g/L.
+Batch 331 | yield | 64% | Batch 331 purification yield was 91%.
+Batch 331 | outcome | Released | Batch 331 was released after QA review.
+Batch 332 | produced_in | Bioreactor B | Batch 332 was produced in Bioreactor B.
+Batch 332 | produces | Enzyme ENZ-3 | Batch 332 produces Enzyme ENZ-3.
+Batch 332 | uses_strain | CHO-K1 clone 7 | Batch 332 uses a production cell line.
+Batch 332 | uses_media | Terrific broth | Batch 332 uses a defined medium.
+Batch 332 | sampled_by | Robotic Arm 3 | Batch 332 is sampled by a robotic arm every hour.
+Batch 332 | assayed_on | HPLC Suite 1 | Batch 332 titre is assayed by HPLC.
+Batch 332 | supervised_by | Operator Ramos | Batch 332 is supervised by the shift operator.
+Batch 332 | titre | 4.5 g/L | Batch 332 reached a final titre of 3.0 g/L.
+Batch 332 | yield | 77% | Batch 332 purification yield was 89%.
+Batch 332 | outcome | Released | Batch 332 was released after QA review.
+Batch 333 | produced_in | Bioreactor B | Batch 333 was produced in Bioreactor B.
+Batch 333 | produces | Fusion protein FP-9 | Batch 333 produces Fusion protein FP-9.
+Batch 333 | uses_strain | Pichia GS115 line 3 | Batch 333 uses a production cell line.
+Batch 333 | uses_media | CD-CHO medium | Batch 333 uses a defined medium.
+Batch 333 | sampled_by | Robotic Arm 3 | Batch 333 is sampled by a robotic arm every hour.
+Batch 333 | assayed_on | HPLC Suite 1 | Batch 333 titre is assayed by HPLC.
+Batch 333 | supervised_by | Operator Okafor | Batch 333 is supervised by the shift operator.
+Batch 333 | titre | 6.1 g/L | Batch 333 reached a final titre of 5.8 g/L.
+Batch 333 | yield | 70% | Batch 333 purification yield was 87%.
+Batch 333 | outcome | Released | Batch 333 was released after QA review.
+Batch 334 | produced_in | Bioreactor B | Batch 334 was produced in Bioreactor B.
+Batch 334 | produces | Enzyme ENZ-3 | Batch 334 produces Enzyme ENZ-3.
+Batch 334 | uses_strain | Pichia GS115 line 3 | Batch 334 uses a production cell line.
+Batch 334 | uses_media | Terrific broth | Batch 334 uses a defined medium.
+Batch 334 | sampled_by | Robotic Arm 3 | Batch 334 is sampled by a robotic arm every hour.
+Batch 334 | assayed_on | HPLC Suite 1 | Batch 334 titre is assayed by HPLC.
+Batch 334 | supervised_by | Operator Chen | Batch 334 is supervised by the shift operator.
+Batch 334 | titre | 5.0 g/L | Batch 334 reached a final titre of 6.1 g/L.
+Batch 334 | yield | 91% | Batch 334 purification yield was 86%.
+Batch 334 | outcome | Released | Batch 334 was released after QA review.
+Batch 335 | produced_in | Bioreactor B | Batch 335 was produced in Bioreactor B.
+Batch 335 | produces | Fusion protein FP-9 | Batch 335 produces Fusion protein FP-9.
+Batch 335 | uses_strain | CHO-K1 clone 7 | Batch 335 uses a production cell line.
+Batch 335 | uses_media | EX-CELL 325 | Batch 335 uses a defined medium.
+Batch 335 | sampled_by | Robotic Arm 3 | Batch 335 is sampled by a robotic arm every hour.
+Batch 335 | assayed_on | HPLC Suite 1 | Batch 335 titre is assayed by HPLC.
+Batch 335 | supervised_by | Operator Chen | Batch 335 is supervised by the shift operator.
+Batch 335 | titre | 4.0 g/L | Batch 335 reached a final titre of 6.4 g/L.
+Batch 335 | yield | 72% | Batch 335 purification yield was 79%.
+Batch 335 | outcome | Released | Batch 335 was released after QA review.
+Batch 336 | produced_in | Bioreactor C | Batch 336 was produced in Bioreactor C.
+Batch 336 | produces | mAb-207 | Batch 336 produces mAb-207.
+Batch 336 | uses_strain | CHO-K1 clone 12 | Batch 336 uses a production cell line.
+Batch 336 | uses_media | CD-CHO medium | Batch 336 uses a defined medium.
+Batch 336 | sampled_by | Robotic Arm 3 | Batch 336 is sampled by a robotic arm every hour.
+Batch 336 | assayed_on | HPLC Suite 1 | Batch 336 titre is assayed by HPLC.
+Batch 336 | supervised_by | Operator Ramos | Batch 336 is supervised by the shift operator.
+Batch 336 | titre | 6.1 g/L | Batch 336 reached a final titre of 6.8 g/L.
+Batch 336 | yield | 84% | Batch 336 purification yield was 68%.
+Batch 336 | outcome | Rejected | Batch 336 was rejected after QA review.
+Batch 336 | rejected_for | Aggregation | Batch 336 failed a release specification.
+Batch 337 | produced_in | Bioreactor B | Batch 337 was produced in Bioreactor B.
+Batch 337 | produces | mAb-201 | Batch 337 produces mAb-201.
+Batch 337 | uses_strain | CHO-K1 clone 7 | Batch 337 uses a production cell line.
+Batch 337 | uses_media | BMGY medium | Batch 337 uses a defined medium.
+Batch 337 | sampled_by | Robotic Arm 3 | Batch 337 is sampled by a robotic arm every hour.
+Batch 337 | assayed_on | HPLC Suite 1 | Batch 337 titre is assayed by HPLC.
+Batch 337 | supervised_by | Operator Chen | Batch 337 is supervised by the shift operator.
+Batch 337 | titre | 5.9 g/L | Batch 337 reached a final titre of 3.8 g/L.
+Batch 337 | yield | 63% | Batch 337 purification yield was 74%.
+Batch 337 | outcome | Rejected | Batch 337 was rejected after QA review.
+Batch 337 | rejected_for | pH excursion | Batch 337 failed a release specification.
+Batch 338 | produced_in | Bioreactor B | Batch 338 was produced in Bioreactor B.
+Batch 338 | produces | Enzyme ENZ-3 | Batch 338 produces Enzyme ENZ-3.
+Batch 338 | uses_strain | CHO-K1 clone 12 | Batch 338 uses a production cell line.
+Batch 338 | uses_media | Terrific broth | Batch 338 uses a defined medium.
+Batch 338 | sampled_by | Robotic Arm 3 | Batch 338 is sampled by a robotic arm every hour.
+Batch 338 | assayed_on | HPLC Suite 1 | Batch 338 titre is assayed by HPLC.
+Batch 338 | supervised_by | Operator Ramos | Batch 338 is supervised by the shift operator.
+Batch 338 | titre | 5.9 g/L | Batch 338 reached a final titre of 5.2 g/L.
+Batch 338 | yield | 84% | Batch 338 purification yield was 81%.
+Batch 338 | outcome | Released | Batch 338 was released after QA review.
+Batch 339 | produced_in | Bioreactor B | Batch 339 was produced in Bioreactor B.
+Batch 339 | produces | mAb-207 | Batch 339 produces mAb-207.
+Batch 339 | uses_strain | CHO-K1 clone 7 | Batch 339 uses a production cell line.
+Batch 339 | uses_media | CD-CHO medium | Batch 339 uses a defined medium.
+Batch 339 | sampled_by | Robotic Arm 3 | Batch 339 is sampled by a robotic arm every hour.
+Batch 339 | assayed_on | HPLC Suite 1 | Batch 339 titre is assayed by HPLC.
+Batch 339 | supervised_by | Operator Chen | Batch 339 is supervised by the shift operator.
+Batch 339 | titre | 2.7 g/L | Batch 339 reached a final titre of 3.6 g/L.
+Batch 339 | yield | 79% | Batch 339 purification yield was 74%.
+Batch 339 | outcome | Released | Batch 339 was released after QA review.
+Batch 340 | produced_in | Bioreactor B | Batch 340 was produced in Bioreactor B.
+Batch 340 | produces | Fusion protein FP-9 | Batch 340 produces Fusion protein FP-9.
+Batch 340 | uses_strain | CHO-K1 clone 12 | Batch 340 uses a production cell line.
+Batch 340 | uses_media | CD-CHO medium | Batch 340 uses a defined medium.
+Batch 340 | sampled_by | Robotic Arm 3 | Batch 340 is sampled by a robotic arm every hour.
+Batch 340 | assayed_on | HPLC Suite 1 | Batch 340 titre is assayed by HPLC.
+Batch 340 | supervised_by | Operator Ramos | Batch 340 is supervised by the shift operator.
+Batch 340 | titre | 5.9 g/L | Batch 340 reached a final titre of 2.6 g/L.
+Batch 340 | yield | 85% | Batch 340 purification yield was 64%.
+Batch 340 | outcome | Released | Batch 340 was released after QA review.
+Batch 341 | produced_in | Bioreactor B | Batch 341 was produced in Bioreactor B.
+Batch 341 | produces | Fusion protein FP-9 | Batch 341 produces Fusion protein FP-9.
+Batch 341 | uses_strain | Pichia GS115 line 3 | Batch 341 uses a production cell line.
+Batch 341 | uses_media | Terrific broth | Batch 341 uses a defined medium.
+Batch 341 | sampled_by | Robotic Arm 3 | Batch 341 is sampled by a robotic arm every hour.
+Batch 341 | assayed_on | HPLC Suite 1 | Batch 341 titre is assayed by HPLC.
+Batch 341 | supervised_by | Operator Chen | Batch 341 is supervised by the shift operator.
+Batch 341 | titre | 3.6 g/L | Batch 341 reached a final titre of 6.2 g/L.
+Batch 341 | yield | 74% | Batch 341 purification yield was 64%.
+Batch 341 | outcome | Released | Batch 341 was released after QA review.
+Batch 342 | produced_in | Bioreactor A | Batch 342 was produced in Bioreactor A.
+Batch 342 | produces | mAb-201 | Batch 342 produces mAb-201.
+Batch 342 | uses_strain | CHO-K1 clone 12 | Batch 342 uses a production cell line.
+Batch 342 | uses_media | Terrific broth | Batch 342 uses a defined medium.
+Batch 342 | sampled_by | Robotic Arm 1 | Batch 342 is sampled by a robotic arm every hour.
+Batch 342 | assayed_on | HPLC Suite 2 | Batch 342 titre is assayed by HPLC.
+Batch 342 | supervised_by | Operator Ramos | Batch 342 is supervised by the shift operator.
+Batch 342 | titre | 3.1 g/L | Batch 342 reached a final titre of 4.0 g/L.
+Batch 342 | yield | 76% | Batch 342 purification yield was 78%.
+Batch 342 | outcome | Released | Batch 342 was released after QA review.
+Batch 343 | produced_in | Bioreactor B | Batch 343 was produced in Bioreactor B.
+Batch 343 | produces | mAb-201 | Batch 343 produces mAb-201.
+Batch 343 | uses_strain | Pichia GS115 line 3 | Batch 343 uses a production cell line.
+Batch 343 | uses_media | Terrific broth | Batch 343 uses a defined medium.
+Batch 343 | sampled_by | Robotic Arm 3 | Batch 343 is sampled by a robotic arm every hour.
+Batch 343 | assayed_on | HPLC Suite 1 | Batch 343 titre is assayed by HPLC.
+Batch 343 | supervised_by | Operator Ramos | Batch 343 is supervised by the shift operator.
+Batch 343 | titre | 6.1 g/L | Batch 343 reached a final titre of 2.4 g/L.
+Batch 343 | yield | 74% | Batch 343 purification yield was 70%.
+Batch 343 | outcome | Released | Batch 343 was released after QA review.
+Batch 344 | produced_in | Bioreactor A | Batch 344 was produced in Bioreactor A.
+Batch 344 | produces | Fusion protein FP-9 | Batch 344 produces Fusion protein FP-9.
+Batch 344 | uses_strain | Pichia GS115 line 3 | Batch 344 uses a production cell line.
+Batch 344 | uses_media | Terrific broth | Batch 344 uses a defined medium.
+Batch 344 | sampled_by | Robotic Arm 3 | Batch 344 is sampled by a robotic arm every hour.
+Batch 344 | assayed_on | HPLC Suite 2 | Batch 344 titre is assayed by HPLC.
+Batch 344 | supervised_by | Operator Okafor | Batch 344 is supervised by the shift operator.
+Batch 344 | titre | 3.2 g/L | Batch 344 reached a final titre of 4.7 g/L.
+Batch 344 | yield | 91% | Batch 344 purification yield was 63%.
+Batch 344 | outcome | Released | Batch 344 was released after QA review.
+Batch 345 | produced_in | Bioreactor B | Batch 345 was produced in Bioreactor B.
+Batch 345 | produces | Fusion protein FP-9 | Batch 345 produces Fusion protein FP-9.
+Batch 345 | uses_strain | CHO-K1 clone 7 | Batch 345 uses a production cell line.
+Batch 345 | uses_media | BMGY medium | Batch 345 uses a defined medium.
+Batch 345 | sampled_by | Robotic Arm 3 | Batch 345 is sampled by a robotic arm every hour.
+Batch 345 | assayed_on | HPLC Suite 1 | Batch 345 titre is assayed by HPLC.
+Batch 345 | supervised_by | Operator Okafor | Batch 345 is supervised by the shift operator.
+Batch 345 | titre | 2.7 g/L | Batch 345 reached a final titre of 5.7 g/L.
+Batch 345 | yield | 77% | Batch 345 purification yield was 88%.
+Batch 345 | outcome | Released | Batch 345 was released after QA review.
+Batch 346 | produced_in | Bioreactor A | Batch 346 was produced in Bioreactor A.
+Batch 346 | produces | Enzyme ENZ-3 | Batch 346 produces Enzyme ENZ-3.
+Batch 346 | uses_strain | CHO-K1 clone 12 | Batch 346 uses a production cell line.
+Batch 346 | uses_media | BMGY medium | Batch 346 uses a defined medium.
+Batch 346 | sampled_by | Robotic Arm 2 | Batch 346 is sampled by a robotic arm every hour.
+Batch 346 | assayed_on | HPLC Suite 1 | Batch 346 titre is assayed by HPLC.
+Batch 346 | supervised_by | Operator Chen | Batch 346 is supervised by the shift operator.
+Batch 346 | titre | 2.6 g/L | Batch 346 reached a final titre of 5.0 g/L.
+Batch 346 | yield | 81% | Batch 346 purification yield was 83%.
+Batch 346 | outcome | Released | Batch 346 was released after QA review.
+Batch 347 | produced_in | Bioreactor B | Batch 347 was produced in Bioreactor B.
+Batch 347 | produces | Enzyme ENZ-3 | Batch 347 produces Enzyme ENZ-3.
+Batch 347 | uses_strain | Pichia GS115 line 3 | Batch 347 uses a production cell line.
+Batch 347 | uses_media | CD-CHO medium | Batch 347 uses a defined medium.
+Batch 347 | sampled_by | Robotic Arm 3 | Batch 347 is sampled by a robotic arm every hour.
+Batch 347 | assayed_on | HPLC Suite 1 | Batch 347 titre is assayed by HPLC.
+Batch 347 | supervised_by | Operator Okafor | Batch 347 is supervised by the shift operator.
+Batch 347 | titre | 5.8 g/L | Batch 347 reached a final titre of 4.0 g/L.
+Batch 347 | yield | 87% | Batch 347 purification yield was 67%.
+Batch 347 | outcome | Released | Batch 347 was released after QA review.
+Batch 348 | produced_in | Bioreactor B | Batch 348 was produced in Bioreactor B.
+Batch 348 | produces | mAb-207 | Batch 348 produces mAb-207.
+Batch 348 | uses_strain | Pichia GS115 line 3 | Batch 348 uses a production cell line.
+Batch 348 | uses_media | BMGY medium | Batch 348 uses a defined medium.
+Batch 348 | sampled_by | Robotic Arm 3 | Batch 348 is sampled by a robotic arm every hour.
+Batch 348 | assayed_on | HPLC Suite 1 | Batch 348 titre is assayed by HPLC.
+Batch 348 | supervised_by | Operator Ramos | Batch 348 is supervised by the shift operator.
+Batch 348 | titre | 3.7 g/L | Batch 348 reached a final titre of 5.0 g/L.
+Batch 348 | yield | 67% | Batch 348 purification yield was 80%.
+Batch 348 | outcome | Released | Batch 348 was released after QA review.
+Batch 349 | produced_in | Bioreactor B | Batch 349 was produced in Bioreactor B.
+Batch 349 | produces | mAb-207 | Batch 349 produces mAb-207.
+Batch 349 | uses_strain | CHO-K1 clone 7 | Batch 349 uses a production cell line.
+Batch 349 | uses_media | Terrific broth | Batch 349 uses a defined medium.
+Batch 349 | sampled_by | Robotic Arm 3 | Batch 349 is sampled by a robotic arm every hour.
+Batch 349 | assayed_on | HPLC Suite 1 | Batch 349 titre is assayed by HPLC.
+Batch 349 | supervised_by | Operator Lindqvist | Batch 349 is supervised by the shift operator.
+Batch 349 | titre | 3.3 g/L | Batch 349 reached a final titre of 6.7 g/L.
+Batch 349 | yield | 82% | Batch 349 purification yield was 83%.
+Batch 349 | outcome | Rejected | Batch 349 was rejected after QA review.
+Batch 349 | rejected_for | Contamination | Batch 349 failed a release specification.
+Batch 350 | produced_in | Bioreactor B | Batch 350 was produced in Bioreactor B.
+Batch 350 | produces | Enzyme ENZ-3 | Batch 350 produces Enzyme ENZ-3.
+Batch 350 | uses_strain | CHO-K1 clone 12 | Batch 350 uses a production cell line.
+Batch 350 | uses_media | Terrific broth | Batch 350 uses a defined medium.
+Batch 350 | sampled_by | Robotic Arm 3 | Batch 350 is sampled by a robotic arm every hour.
+Batch 350 | assayed_on | HPLC Suite 1 | Batch 350 titre is assayed by HPLC.
+Batch 350 | supervised_by | Operator Lindqvist | Batch 350 is supervised by the shift operator.
+Batch 350 | titre | 3.8 g/L | Batch 350 reached a final titre of 4.2 g/L.
+Batch 350 | yield | 69% | Batch 350 purification yield was 79%.
+Batch 350 | outcome | Released | Batch 350 was released after QA review.
